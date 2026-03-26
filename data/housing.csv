@@ -1,101 +1,101 @@
 id,square_meters,age,price,bedrooms,bathrooms,floor,distance_to_center_km,has_garage,build_quality,property_type,neighborhood
-1,51,5,192700,2,1,2,4.7,0,5,Single Family,Centro Historico
-2,52,44,132300,2,1,10,4.3,1,3,Apartment,La Merced
-3,56,36,163200,2,1,1,6.6,1,6,Townhouse,La Merced
-4,57,6,210100,3,2,8,14.0,1,5,Single Family,La Florida
-5,58,21,109500,2,1,1,18.0,1,5,Apartment,Los Pinos
-6,62,42,86000,2,1,9,16.7,0,5,Townhouse,Las Flores
-7,63,44,189700,3,2,11,7.4,1,1,Single Family,Centro Historico
-8,64,15,161000,3,2,6,23.9,0,4,Single Family,San Rafael
-9,64,38,113300,2,1,7,18.6,1,5,Apartment,La Esperanza
-10,66,22,193800,3,2,13,14.1,1,5,Apartment,Santa Rosa
-11,67,3,145600,2,1,10,15.5,1,5,Apartment,Miraflores
-12,67,3,118000,2,1,7,10.8,0,5,Townhouse,Las Palmas
-13,67,39,241900,2,1,10,6.6,0,7,Single Family,La Merced
-14,68,39,148400,1,1,3,9.2,0,5,Single Family,Villa Verde
-15,70,36,90600,1,1,2,19.1,1,5,Apartment,El Mirador
-16,70,15,192500,2,1,9,0.9,1,3,Apartment,La Merced
-17,70,6,193200,2,1,8,3.3,0,3,Single Family,San Miguel
-18,70,12,195900,3,1,13,1.6,0,6,Apartment,Centro Historico
-19,70,27,243500,2,2,12,1.5,1,7,Single Family,Belen
-20,73,25,176900,2,1,10,21.5,0,7,Single Family,Los Pinos
-21,73,49,160500,3,2,7,17.7,1,4,Single Family,Villa Sol
-22,74,43,136000,2,1,9,12.1,1,5,Apartment,San Jose
-23,75,25,154900,3,2,4,2.9,0,5,Townhouse,Centro Historico
-24,75,4,162000,2,1,13,12.5,0,8,Townhouse,Las Palmas
-25,76,44,174300,2,1,4,12.1,1,5,Single Family,Villa Verde
-26,77,16,195900,3,2,1,4.7,0,7,Apartment,La Merced
-27,78,2,105100,2,1,8,11.1,0,5,Apartment,La Florida
-28,78,10,237100,3,2,14,10.3,1,7,Apartment,El Bosque
-29,78,24,190900,2,1,14,15.6,1,7,Apartment,Miraflores
-30,79,44,182900,2,1,12,16.1,1,5,Single Family,Los Pinos
-31,82,9,235000,2,1,3,1.6,1,3,Single Family,San Miguel
-32,85,48,156600,4,2,7,9.7,0,5,Townhouse,El Prado
-33,90,45,153600,3,1,15,15.8,0,7,Apartment,Santa Rosa
-34,90,44,166900,2,1,12,12.8,1,6,Apartment,Miraflores
-35,91,35,169200,4,2,2,21.5,1,4,Apartment,Las Flores
-36,92,25,176200,2,2,2,16.6,1,4,Apartment,San Pedro
-37,93,35,233500,3,2,7,4.5,1,2,Apartment,Belen
-38,95,33,274700,2,1,15,2.2,0,7,Apartment,Belen
-39,96,18,224600,2,1,6,16.2,1,6,Apartment,La Esperanza
-40,99,13,238100,3,1,3,1.1,0,5,Single Family,La Merced
-41,100,46,175600,4,2,9,14.9,1,5,Apartment,Los Olivos
-42,102,43,149800,4,3,10,23.5,0,2,Single Family,El Mirador
-43,106,29,218800,3,1,15,14.6,0,4,Single Family,Villa Verde
-44,106,9,141700,3,2,14,10.0,0,7,Apartment,San Jose
-45,110,11,254800,3,2,13,16.3,1,6,Single Family,San Pedro
-46,112,31,253400,3,2,6,11.7,1,5,Single Family,Las Palmas
-47,113,15,169500,3,1,10,13.9,1,5,Apartment,La Florida
-48,117,3,269200,5,3,10,23.6,1,6,Apartment,Las Flores
-49,117,9,243300,4,3,6,10.0,0,5,Single Family,San Antonio
-50,117,48,154000,3,2,1,24.0,0,3,Apartment,El Mirador
-51,117,33,287300,4,2,4,22.7,1,5,Apartment,El Mirador
-52,125,41,198400,4,3,10,5.3,0,6,Apartment,Centro Historico
-53,125,28,331200,4,2,6,2.2,1,7,Single Family,Plaza Mayor
-54,126,41,261500,5,3,15,3.0,0,3,Single Family,San Miguel
-55,128,16,313300,5,3,6,0.9,1,5,Single Family,San Miguel
-56,129,26,345800,5,3,11,2.8,0,5,Single Family,Centro Historico
-57,130,14,268200,4,3,12,17.2,1,3,Apartment,Villa Sol
-58,134,5,397500,4,3,5,2.2,1,6,Single Family,Centro Historico
-59,136,7,275700,5,3,1,8.3,1,6,Apartment,Villa Verde
-60,137,8,335200,5,3,8,21.2,0,5,Apartment,San Rafael
-61,143,11,296000,4,2,5,1.1,1,8,Single Family,Belen
-62,144,23,221800,5,3,12,20.5,1,5,Apartment,El Mirador
-63,145,29,328600,4,3,12,7.4,1,4,Single Family,Plaza Mayor
-64,147,18,338000,4,2,12,3.4,1,4,Single Family,Belen
-65,147,39,313300,5,3,5,17.6,1,4,Single Family,Los Pinos
-66,152,4,409200,6,4,7,15.9,1,4,Single Family,San Jose
-67,153,8,292900,5,3,4,22.0,1,3,Single Family,Monte Verde
-68,158,3,317700,6,4,6,18.5,1,5,Apartment,Nuevo Horizonte
-69,158,22,258100,5,3,13,20.2,1,5,Apartment,San Pedro
-70,158,14,299000,5,3,4,7.4,0,2,Apartment,San Miguel
-71,158,45,283200,5,3,14,4.8,0,5,Apartment,La Merced
-72,160,23,278300,6,3,15,18.9,1,5,Apartment,El Carmen
-73,166,19,327800,6,4,3,20.3,1,6,Townhouse,Los Pinos
-74,167,35,360400,6,4,7,24.8,1,7,Apartment,El Carmen
-75,167,10,221700,4,2,8,10.6,1,6,Apartment,San Antonio
-76,168,16,334100,6,4,4,9.6,0,4,Apartment,La Florida
-77,169,34,266700,6,4,13,19.5,0,4,Apartment,Nuevo Horizonte
-78,171,36,440600,6,4,2,8.8,1,6,Single Family,El Prado
-79,174,5,321000,6,4,12,23.3,0,4,Single Family,Villa Sol
-80,174,14,388400,5,4,10,21.5,1,3,Single Family,San Rafael
-81,174,10,384100,6,4,14,11.0,0,9,Single Family,Las Palmas
-82,178,34,208500,6,3,3,18.9,1,5,Apartment,Los Pinos
-83,179,39,387100,6,3,1,19.0,1,4,Single Family,El Carmen
-84,180,32,290700,6,4,8,3.0,1,2,Apartment,Belen
-85,185,1,267100,6,4,15,22.6,1,6,Apartment,San Rafael
-86,188,49,316800,6,4,3,12.9,0,4,Apartment,Villa Verde
-87,188,9,371100,6,4,12,20.7,1,5,Single Family,San Pedro
-88,188,4,442200,6,4,10,8.3,1,6,Apartment,San Jose
-89,190,7,350000,6,3,7,22.4,0,4,Apartment,El Mirador
-90,192,15,413100,6,3,10,10.0,1,5,Single Family,El Bosque
-91,192,43,348400,6,3,5,0.8,1,7,Apartment,San Miguel
-92,195,46,329800,6,4,10,22.7,1,1,Single Family,Las Flores
-93,195,16,398500,6,4,5,2.7,1,4,Apartment,Belen
-94,197,13,399400,6,3,14,8.3,1,4,Apartment,San Jose
-95,197,31,291200,6,4,7,23.8,1,5,Apartment,Las Flores
-96,199,28,357900,6,4,15,23.8,1,5,Single Family,La Esperanza
-97,199,31,356900,6,3,9,14.5,1,3,Apartment,El Prado
-98,199,37,389600,6,4,12,16.0,0,4,Apartment,San Antonio
-99,200,18,406400,6,4,5,11.5,0,4,Apartment,San Antonio
-100,200,15,344700,6,3,1,7.7,0,4,Townhouse,Centro Historico
+1,152,33,338200,4,2,1,4.3,1,10,Single Family,El Prado
+2,142,24,266900,4,3,8,6.6,1,3,Single Family,Las Flores
+3,64,11,170800,2,1,1,14.0,1,6,Apartment,El Mirador
+4,156,49,236600,4,3,9,18.0,1,5,Apartment,Miraflores
+5,121,8,284300,3,2,11,16.7,0,10,Apartment,Villa Verde
+6,70,36,231400,2,1,6,7.4,1,8,Apartment,La Merced
+7,152,38,267400,4,2,7,23.9,0,8,Single Family,Santa Rosa
+8,171,40,240000,5,3,13,18.6,1,6,Apartment,San Miguel
+9,124,20,229800,4,2,10,14.1,1,5,Apartment,San Miguel
+10,137,35,282500,4,2,7,15.5,1,4,Single Family,Centro Historico
+11,166,48,215600,5,3,10,10.8,1,2,Apartment,El Bosque
+12,149,25,293500,4,3,3,6.6,0,8,Apartment,Los Olivos
+13,153,35,343800,4,3,2,9.2,0,8,Single Family,El Bosque
+14,180,25,362700,5,3,9,19.1,1,10,Townhouse,Miraflores
+15,199,29,434600,6,4,8,0.9,1,10,Single Family,Villa Verde
+16,102,18,246300,3,1,13,3.3,0,6,Single Family,Plaza Mayor
+17,51,46,191200,1,1,12,1.6,0,8,Apartment,El Prado
+18,137,18,300300,4,2,10,1.5,1,9,Apartment,San Miguel
+19,87,2,218200,2,1,7,21.5,0,8,Single Family,Las Flores
+20,179,35,283500,5,3,9,17.7,1,4,Apartment,Plaza Mayor
+21,70,16,194600,2,1,4,12.1,1,6,Apartment,Plaza Mayor
+22,107,41,171300,3,2,13,2.9,0,3,Apartment,Monte Verde
+23,71,36,220700,2,1,4,12.5,0,10,Apartment,El Prado
+24,138,33,288500,4,3,1,12.1,1,7,Apartment,Belen
+25,98,4,251400,3,2,8,4.7,1,4,Apartment,La Esperanza
+26,108,33,250100,3,2,14,11.1,1,7,Apartment,San Jose
+27,64,14,196900,2,1,14,10.3,1,7,Apartment,Las Palmas
+28,100,21,196100,3,1,12,15.6,1,5,Townhouse,La Esperanza
+29,157,48,252500,4,2,3,16.1,1,3,Single Family,Villa Sol
+30,104,20,281100,3,2,7,1.6,1,7,Single Family,El Bosque
+31,113,8,288600,3,2,15,9.7,1,6,Single Family,El Bosque
+32,180,7,278000,5,3,12,15.8,0,8,Apartment,San Pedro
+33,100,3,229900,3,2,2,12.8,1,6,Apartment,El Bosque
+34,184,17,361900,5,3,2,21.5,1,8,Single Family,El Prado
+35,70,33,225700,2,1,7,16.6,1,6,Single Family,Monte Verde
+36,122,48,246600,3,1,15,4.5,1,6,Single Family,La Florida
+37,67,12,208800,2,1,6,2.2,0,9,Apartment,Centro Historico
+38,181,22,276600,5,3,3,16.2,1,5,Apartment,San Antonio
+39,138,22,201900,4,3,9,1.1,0,3,Apartment,Los Pinos
+40,109,46,138600,3,2,10,14.9,1,1,Apartment,Centro Historico
+41,63,30,202000,2,1,15,23.5,0,8,Single Family,La Esperanza
+42,58,38,172700,2,1,14,14.6,0,7,Single Family,El Carmen
+43,139,38,258300,4,2,13,10.0,0,7,Apartment,Centro Historico
+44,102,45,181300,3,2,6,16.3,1,4,Townhouse,Los Pinos
+45,179,8,296900,5,2,10,11.7,1,3,Single Family,San Antonio
+46,133,27,155400,4,3,10,13.9,1,1,Apartment,La Merced
+47,141,27,207600,4,2,6,23.6,1,5,Apartment,El Prado
+48,160,34,289800,5,3,1,10.0,1,6,Apartment,Las Flores
+49,57,21,114100,2,1,4,24.0,0,5,Apartment,El Bosque
+50,84,30,177700,2,1,10,22.7,1,6,Apartment,El Bosque
+51,130,33,278600,4,2,6,5.3,0,9,Apartment,Monte Verde
+52,99,28,223300,3,2,15,2.2,1,5,Apartment,San Pedro
+53,153,47,238200,4,2,6,3.0,0,6,Apartment,Monte Verde
+54,181,33,350200,5,3,11,0.9,1,8,Townhouse,La Florida
+55,51,5,149400,1,1,12,2.8,0,5,Apartment,La Florida
+56,183,48,337700,5,3,5,17.2,1,7,Single Family,San Miguel
+57,103,19,271900,3,2,1,2.2,1,8,Apartment,San Pedro
+58,155,4,347900,4,3,8,8.3,1,9,Townhouse,Monte Verde
+59,53,35,128600,2,1,5,21.2,0,3,Apartment,El Bosque
+60,103,49,258600,3,2,12,1.1,1,9,Apartment,Las Palmas
+61,195,17,340600,6,4,12,20.5,1,6,Townhouse,Nuevo Horizonte
+62,93,44,150400,3,2,12,7.4,1,4,Townhouse,Los Pinos
+63,63,28,192100,2,1,5,3.4,1,6,Single Family,Los Pinos
+64,144,30,289200,4,2,7,17.6,1,10,Apartment,Centro Historico
+65,97,29,195600,3,2,4,15.9,1,6,Apartment,Nuevo Horizonte
+66,64,46,175300,2,1,6,22.0,1,5,Single Family,San Pedro
+67,89,6,238800,3,2,13,18.5,1,7,Townhouse,Belen
+68,131,35,227200,4,2,4,20.2,1,4,Single Family,La Florida
+69,160,41,230200,5,3,14,7.4,0,2,Single Family,La Esperanza
+70,102,37,172800,3,2,15,4.8,0,3,Apartment,Centro Historico
+71,73,24,177500,2,1,3,18.9,1,3,Single Family,Plaza Mayor
+72,173,29,214600,5,3,7,20.3,1,3,Apartment,San Antonio
+73,90,49,133900,3,2,8,24.8,1,3,Apartment,Centro Historico
+74,64,46,188300,2,1,4,10.6,1,7,Apartment,Belen
+75,94,31,206600,3,2,13,9.6,0,4,Single Family,Los Olivos
+76,114,35,171900,3,2,2,19.5,0,5,Apartment,La Merced
+77,138,33,310400,4,3,12,8.8,1,9,Apartment,Las Palmas
+78,120,21,255000,3,2,10,23.3,1,6,Single Family,Plaza Mayor
+79,58,32,164600,2,1,14,21.5,1,7,Apartment,Las Palmas
+80,137,23,221700,4,3,3,11.0,0,3,Single Family,Centro Historico
+81,178,33,255000,5,3,1,18.9,1,4,Apartment,Los Olivos
+82,185,3,230000,5,2,8,19.0,1,2,Apartment,La Florida
+83,112,18,242600,3,2,15,3.0,1,3,Single Family,San Jose
+84,188,25,244200,5,3,3,22.6,1,4,Apartment,Los Pinos
+85,130,42,167400,4,2,12,12.9,0,3,Apartment,Belen
+86,185,31,224000,5,3,10,20.7,1,2,Apartment,San Jose
+87,82,3,192900,2,2,7,8.3,1,3,Apartment,El Mirador
+88,172,40,240900,5,3,10,22.4,0,6,Townhouse,Nuevo Horizonte
+89,54,46,140700,2,1,5,10.0,1,4,Apartment,El Mirador
+90,90,24,251600,3,2,10,0.8,1,5,Single Family,Los Pinos
+91,77,50,189200,2,1,5,22.7,1,6,Apartment,El Bosque
+92,184,32,343000,5,3,14,2.7,1,7,Single Family,Plaza Mayor
+93,121,47,180000,3,2,7,8.3,1,1,Single Family,Los Pinos
+94,61,22,210000,2,1,15,23.8,1,8,Single Family,Belen
+95,82,23,170400,2,1,9,23.8,1,7,Apartment,Santa Rosa
+96,97,2,195300,3,2,12,14.5,1,2,Apartment,San Jose
+97,200,27,326900,6,4,5,16.0,0,9,Apartment,La Merced
+98,111,42,230300,3,1,1,11.5,0,9,Townhouse,Monte Verde
+99,86,2,208000,2,1,10,7.7,1,2,Single Family,Monte Verde
+100,148,26,215200,4,2,10,8.6,1,4,Townhouse,Belen
