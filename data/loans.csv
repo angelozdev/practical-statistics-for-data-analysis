@@ -1,0 +1,3001 @@
+borrower_score,payment_inc_ratio,outcome
+0.451,5.83,default
+0.632,7.82,paid off
+0.308,17.27,default
+0.653,7.85,paid off
+0.398,15.38,default
+0.639,4.2,paid off
+0.689,4.96,paid off
+0.47,11.21,default
+0.568,4.62,paid off
+0.388,8.72,default
+0.232,7.03,default
+0.48,4.67,paid off
+0.62,4.18,paid off
+0.558,7.09,default
+0.342,17.12,default
+0.465,9.44,paid off
+0.661,3.73,paid off
+0.588,4.68,paid off
+0.287,11.21,default
+0.386,7.19,default
+0.704,12.01,paid off
+0.603,6.55,paid off
+0.716,6.35,paid off
+0.385,11.95,default
+0.675,5.92,paid off
+0.436,12.25,default
+0.271,20.0,default
+0.628,12.82,paid off
+0.595,5.57,paid off
+0.495,3.11,paid off
+0.714,3.03,paid off
+0.333,12.9,default
+0.578,3.64,paid off
+0.394,9.29,default
+0.773,6.69,paid off
+0.615,6.9,paid off
+0.425,14.46,default
+0.384,4.07,paid off
+0.488,7.21,paid off
+0.427,4.15,paid off
+0.634,4.23,paid off
+0.753,4.26,paid off
+0.61,2.96,paid off
+0.8,7.69,paid off
+0.693,5.55,paid off
+0.653,8.34,paid off
+0.497,13.13,default
+0.682,7.58,paid off
+0.418,7.71,default
+0.617,6.73,paid off
+0.711,1.68,paid off
+0.474,8.82,default
+0.533,6.54,paid off
+0.593,18.95,default
+0.593,4.68,paid off
+0.409,9.28,default
+0.47,2.18,paid off
+0.653,7.15,paid off
+0.471,12.15,default
+0.614,1.95,paid off
+0.5,2.13,paid off
+0.508,3.18,paid off
+0.66,6.58,paid off
+0.621,2.55,paid off
+0.554,12.14,paid off
+0.54,4.51,paid off
+0.648,6.49,paid off
+0.422,4.57,paid off
+0.521,8.44,paid off
+0.681,3.85,paid off
+0.241,5.04,default
+0.283,9.28,default
+0.398,7.83,default
+0.517,7.7,default
+0.622,3.39,paid off
+0.669,3.12,paid off
+0.438,4.5,default
+0.509,7.26,default
+0.276,10.92,default
+0.416,10.22,default
+0.477,14.21,default
+0.307,6.03,default
+0.753,2.78,paid off
+0.305,15.46,default
+0.299,15.36,default
+0.564,13.38,paid off
+0.269,14.97,default
+0.713,5.3,paid off
+0.449,15.58,default
+0.286,12.13,default
+0.712,2.82,paid off
+0.567,8.26,paid off
+0.406,8.7,default
+0.599,5.44,paid off
+0.244,9.7,default
+0.514,10.11,paid off
+0.308,18.94,default
+0.379,9.26,default
+0.524,4.45,paid off
+0.226,9.54,default
+0.561,8.86,default
+0.713,1.36,paid off
+0.39,2.4,paid off
+0.693,7.09,paid off
+0.666,9.62,paid off
+0.645,4.82,paid off
+0.324,8.18,default
+0.546,8.21,paid off
+0.743,10.93,paid off
+0.563,1.93,paid off
+0.402,5.41,default
+0.773,2.03,paid off
+0.613,13.11,default
+0.246,14.29,default
+0.61,3.68,paid off
+0.438,18.47,default
+0.577,9.86,paid off
+0.382,4.56,paid off
+0.623,7.75,paid off
+0.605,12.71,default
+0.424,10.71,default
+0.655,11.24,paid off
+0.57,4.84,paid off
+0.527,5.02,default
+0.661,5.84,paid off
+0.639,8.64,default
+0.212,8.82,default
+0.605,13.41,paid off
+0.632,2.09,paid off
+0.592,5.11,paid off
+0.391,10.18,default
+0.627,10.68,paid off
+0.329,20.0,default
+0.358,12.24,default
+0.652,5.2,paid off
+0.768,2.85,paid off
+0.636,1.56,paid off
+0.387,11.98,default
+0.607,8.73,paid off
+0.237,9.14,default
+0.553,12.29,default
+0.675,6.4,paid off
+0.382,13.08,default
+0.217,9.66,default
+0.439,13.37,default
+0.615,5.49,paid off
+0.311,5.67,default
+0.532,11.2,default
+0.412,6.9,default
+0.688,6.54,paid off
+0.364,11.29,default
+0.249,6.89,default
+0.335,4.54,paid off
+0.404,9.08,default
+0.479,4.41,paid off
+0.578,11.04,default
+0.533,3.47,paid off
+0.407,16.02,default
+0.741,2.37,paid off
+0.229,8.83,default
+0.409,14.49,default
+0.402,11.85,default
+0.766,3.54,paid off
+0.458,6.45,paid off
+0.269,18.88,default
+0.642,4.84,paid off
+0.636,3.92,paid off
+0.466,8.58,default
+0.341,6.73,default
+0.66,4.89,paid off
+0.363,11.94,default
+0.39,8.81,default
+0.596,2.33,paid off
+0.537,3.83,paid off
+0.476,10.49,default
+0.696,4.0,paid off
+0.331,12.03,default
+0.452,5.22,default
+0.765,7.5,paid off
+0.288,14.15,default
+0.579,3.87,paid off
+0.338,7.24,default
+0.372,7.21,default
+0.418,15.59,default
+0.508,4.69,paid off
+0.745,4.93,paid off
+0.5,7.81,paid off
+0.277,4.32,default
+0.547,3.05,paid off
+0.459,16.08,default
+0.546,5.29,paid off
+0.723,7.57,paid off
+0.547,19.29,default
+0.8,6.12,paid off
+0.787,3.76,paid off
+0.373,20.0,default
+0.733,4.02,paid off
+0.319,8.16,default
+0.484,4.89,paid off
+0.654,8.12,paid off
+0.775,9.84,paid off
+0.487,20.0,default
+0.62,4.36,paid off
+0.487,8.92,default
+0.253,20.0,default
+0.711,6.58,paid off
+0.372,11.75,default
+0.464,17.84,default
+0.731,4.08,paid off
+0.392,11.2,default
+0.342,8.14,default
+0.352,8.94,default
+0.738,4.39,paid off
+0.309,8.5,default
+0.691,3.54,paid off
+0.661,4.24,paid off
+0.617,4.26,paid off
+0.573,7.66,paid off
+0.464,11.45,default
+0.397,14.78,default
+0.723,8.73,paid off
+0.459,7.44,paid off
+0.449,8.19,paid off
+0.348,12.81,default
+0.554,7.58,paid off
+0.676,4.11,paid off
+0.63,8.83,paid off
+0.269,7.49,default
+0.617,4.56,paid off
+0.409,4.96,paid off
+0.774,10.47,paid off
+0.356,16.53,default
+0.562,11.99,default
+0.747,4.24,paid off
+0.715,4.45,paid off
+0.711,4.16,paid off
+0.479,2.77,paid off
+0.215,13.84,default
+0.577,13.04,default
+0.714,3.01,paid off
+0.245,14.57,default
+0.599,3.15,paid off
+0.351,8.84,default
+0.336,10.33,default
+0.691,4.96,paid off
+0.749,3.75,paid off
+0.422,2.87,paid off
+0.584,3.73,paid off
+0.685,4.8,paid off
+0.367,9.01,default
+0.51,9.87,paid off
+0.794,7.71,paid off
+0.564,4.24,paid off
+0.741,8.77,paid off
+0.338,8.04,default
+0.385,10.74,default
+0.299,8.59,default
+0.194,9.6,default
+0.323,8.77,default
+0.4,10.26,default
+0.445,1.79,paid off
+0.314,5.47,default
+0.537,4.53,paid off
+0.6,9.15,paid off
+0.622,4.86,paid off
+0.321,10.42,default
+0.385,11.86,default
+0.424,7.74,default
+0.407,13.63,default
+0.767,10.86,paid off
+0.435,20.0,default
+0.773,13.59,paid off
+0.548,10.6,default
+0.545,6.85,paid off
+0.663,2.09,paid off
+0.657,6.17,paid off
+0.314,11.77,default
+0.687,4.0,paid off
+0.645,7.11,paid off
+0.758,7.78,paid off
+0.77,7.06,paid off
+0.72,3.42,paid off
+0.605,5.4,paid off
+0.726,2.27,paid off
+0.661,3.07,paid off
+0.203,6.51,default
+0.531,3.99,paid off
+0.434,11.08,default
+0.602,3.43,paid off
+0.507,4.06,paid off
+0.373,7.96,default
+0.484,6.13,default
+0.582,3.59,paid off
+0.696,6.19,paid off
+0.464,7.06,default
+0.545,12.07,default
+0.574,6.76,paid off
+0.732,7.88,default
+0.221,10.25,default
+0.665,3.21,paid off
+0.627,5.28,paid off
+0.481,9.76,paid off
+0.661,1.91,paid off
+0.651,6.5,paid off
+0.388,9.27,default
+0.567,2.96,paid off
+0.759,3.2,paid off
+0.493,6.06,paid off
+0.45,4.23,paid off
+0.698,4.16,paid off
+0.726,3.56,paid off
+0.477,3.76,paid off
+0.706,7.01,paid off
+0.511,8.75,default
+0.704,6.37,paid off
+0.44,11.03,default
+0.6,4.07,paid off
+0.295,10.22,default
+0.352,7.95,default
+0.688,4.7,paid off
+0.659,6.94,paid off
+0.434,3.47,paid off
+0.531,12.89,default
+0.4,6.39,default
+0.566,10.3,default
+0.596,6.55,paid off
+0.766,7.06,paid off
+0.237,10.67,default
+0.389,9.18,default
+0.479,16.63,default
+0.584,9.25,paid off
+0.541,2.81,paid off
+0.243,13.93,default
+0.739,7.35,paid off
+0.678,2.34,paid off
+0.485,13.86,default
+0.311,15.44,default
+0.684,8.16,paid off
+0.3,18.87,default
+0.636,15.8,paid off
+0.259,10.76,default
+0.535,4.3,paid off
+0.674,5.34,paid off
+0.319,12.9,default
+0.563,2.31,paid off
+0.582,2.51,paid off
+0.253,7.54,default
+0.447,3.09,paid off
+0.636,8.67,paid off
+0.725,4.74,paid off
+0.523,5.39,paid off
+0.548,7.02,default
+0.489,2.39,paid off
+0.37,9.12,default
+0.47,16.26,default
+0.557,3.32,paid off
+0.453,14.09,default
+0.6,3.84,paid off
+0.481,17.88,default
+0.55,3.07,paid off
+0.604,15.37,default
+0.259,10.34,default
+0.528,8.04,default
+0.663,3.46,paid off
+0.653,5.79,paid off
+0.526,8.33,paid off
+0.373,8.76,default
+0.602,2.44,paid off
+0.443,6.56,default
+0.237,8.65,default
+0.672,1.68,paid off
+0.589,6.82,paid off
+0.383,10.12,default
+0.596,13.32,default
+0.547,5.47,paid off
+0.284,8.46,default
+0.631,6.05,paid off
+0.64,5.27,paid off
+0.625,4.38,paid off
+0.663,1.98,paid off
+0.723,6.41,paid off
+0.443,10.19,default
+0.7,3.84,paid off
+0.605,4.71,paid off
+0.735,7.0,paid off
+0.606,15.25,default
+0.469,17.7,default
+0.526,10.19,paid off
+0.728,2.9,paid off
+0.552,3.93,paid off
+0.506,16.14,default
+0.307,12.52,default
+0.736,7.04,paid off
+0.595,4.01,paid off
+0.294,13.6,default
+0.634,5.22,paid off
+0.495,2.78,paid off
+0.716,3.43,paid off
+0.737,2.53,paid off
+0.303,7.66,default
+0.621,1.96,paid off
+0.238,14.3,default
+0.518,7.43,paid off
+0.424,9.71,default
+0.43,11.54,default
+0.712,4.78,paid off
+0.549,5.12,paid off
+0.321,13.07,default
+0.742,6.54,paid off
+0.288,16.14,default
+0.49,5.3,paid off
+0.763,8.93,paid off
+0.621,9.53,paid off
+0.627,2.7,paid off
+0.637,3.98,paid off
+0.577,3.92,paid off
+0.557,5.02,paid off
+0.649,5.16,paid off
+0.678,5.1,paid off
+0.565,4.78,paid off
+0.678,2.22,paid off
+0.434,11.64,default
+0.686,3.19,paid off
+0.627,6.86,paid off
+0.628,5.25,paid off
+0.388,4.13,paid off
+0.391,6.85,paid off
+0.528,5.02,paid off
+0.794,5.59,paid off
+0.783,4.11,paid off
+0.424,12.22,default
+0.531,5.13,paid off
+0.447,12.52,default
+0.629,2.14,paid off
+0.457,5.12,paid off
+0.467,7.09,paid off
+0.627,2.56,paid off
+0.266,12.25,default
+0.437,19.99,default
+0.522,3.52,paid off
+0.731,7.11,paid off
+0.403,10.0,default
+0.493,6.05,default
+0.557,3.94,paid off
+0.628,7.93,default
+0.597,3.71,paid off
+0.427,17.43,default
+0.536,5.59,default
+0.505,5.89,paid off
+0.369,9.37,default
+0.436,8.39,default
+0.7,4.77,paid off
+0.324,18.38,default
+0.665,8.2,paid off
+0.612,6.62,paid off
+0.785,9.67,paid off
+0.52,4.07,paid off
+0.742,5.34,paid off
+0.714,5.62,paid off
+0.518,5.13,paid off
+0.519,3.31,paid off
+0.56,2.54,paid off
+0.708,8.24,paid off
+0.605,4.29,paid off
+0.444,12.63,paid off
+0.258,18.01,default
+0.563,5.37,paid off
+0.685,11.8,paid off
+0.643,4.05,paid off
+0.212,4.99,default
+0.752,2.29,paid off
+0.385,16.21,default
+0.533,9.71,default
+0.607,7.55,paid off
+0.238,6.23,default
+0.441,10.41,default
+0.269,4.46,default
+0.396,7.13,default
+0.542,5.25,paid off
+0.745,2.73,paid off
+0.624,13.21,default
+0.731,6.82,paid off
+0.401,15.82,default
+0.446,7.3,default
+0.57,15.73,default
+0.361,10.0,default
+0.278,9.87,default
+0.539,9.29,default
+0.667,11.11,paid off
+0.485,9.75,default
+0.633,4.04,paid off
+0.32,16.04,default
+0.312,5.01,default
+0.361,6.76,default
+0.578,13.14,default
+0.676,8.39,paid off
+0.644,2.13,paid off
+0.611,5.77,default
+0.71,9.31,paid off
+0.492,19.71,default
+0.298,13.44,default
+0.53,4.08,paid off
+0.727,6.08,paid off
+0.66,19.94,default
+0.479,4.1,paid off
+0.574,7.53,default
+0.313,11.77,default
+0.632,6.35,paid off
+0.458,14.24,default
+0.564,7.13,paid off
+0.522,20.0,default
+0.569,2.19,paid off
+0.777,4.48,paid off
+0.45,5.69,default
+0.637,2.97,paid off
+0.33,5.76,default
+0.649,3.57,paid off
+0.569,5.01,paid off
+0.622,6.83,paid off
+0.553,2.66,paid off
+0.6,5.47,paid off
+0.627,4.87,paid off
+0.332,7.79,default
+0.623,9.25,paid off
+0.8,5.52,paid off
+0.604,4.97,paid off
+0.347,6.98,default
+0.504,7.06,default
+0.452,6.2,default
+0.603,10.1,default
+0.457,8.33,default
+0.665,5.0,paid off
+0.488,6.13,paid off
+0.257,14.5,default
+0.593,3.28,paid off
+0.433,10.6,default
+0.624,2.93,paid off
+0.546,5.55,default
+0.54,5.46,paid off
+0.632,6.43,paid off
+0.468,13.35,default
+0.262,11.89,default
+0.532,4.72,paid off
+0.365,10.75,default
+0.587,2.44,paid off
+0.709,5.6,paid off
+0.729,6.88,paid off
+0.363,14.95,default
+0.349,9.34,default
+0.552,6.8,paid off
+0.348,8.56,default
+0.359,13.41,default
+0.643,5.69,paid off
+0.663,2.46,paid off
+0.654,3.84,paid off
+0.376,15.47,default
+0.724,2.85,paid off
+0.656,2.33,paid off
+0.608,5.18,paid off
+0.536,3.05,paid off
+0.237,9.52,default
+0.402,5.13,default
+0.47,13.09,default
+0.598,4.55,paid off
+0.623,4.03,paid off
+0.301,14.84,default
+0.536,1.94,paid off
+0.612,2.18,paid off
+0.679,4.0,paid off
+0.478,8.71,default
+0.652,5.88,paid off
+0.743,7.45,paid off
+0.184,10.63,default
+0.698,1.82,paid off
+0.475,9.46,default
+0.483,5.04,paid off
+0.563,3.94,paid off
+0.54,8.37,paid off
+0.661,5.97,paid off
+0.619,9.68,paid off
+0.614,14.82,paid off
+0.595,10.69,paid off
+0.394,20.0,default
+0.31,11.45,default
+0.515,4.19,paid off
+0.513,9.99,paid off
+0.423,10.87,default
+0.465,6.58,paid off
+0.394,3.38,paid off
+0.34,12.75,default
+0.278,20.0,default
+0.517,16.92,default
+0.288,7.78,default
+0.409,6.05,paid off
+0.424,5.47,paid off
+0.373,8.55,paid off
+0.469,4.43,default
+0.707,3.82,paid off
+0.28,6.26,default
+0.712,9.06,paid off
+0.642,8.08,paid off
+0.544,4.69,paid off
+0.533,3.7,paid off
+0.238,6.11,default
+0.754,5.19,paid off
+0.597,3.31,paid off
+0.697,9.18,paid off
+0.48,11.1,default
+0.412,9.35,default
+0.286,10.83,default
+0.434,12.68,default
+0.484,7.76,paid off
+0.419,7.0,default
+0.41,3.94,paid off
+0.772,6.29,paid off
+0.3,6.31,default
+0.669,3.91,paid off
+0.579,5.97,paid off
+0.45,6.96,paid off
+0.636,4.45,paid off
+0.575,17.67,default
+0.601,2.56,paid off
+0.303,10.16,default
+0.427,20.0,default
+0.309,16.24,default
+0.366,7.23,default
+0.774,6.63,paid off
+0.478,6.09,paid off
+0.768,5.55,paid off
+0.651,12.06,paid off
+0.605,2.4,paid off
+0.616,11.49,default
+0.225,9.95,default
+0.667,3.6,default
+0.372,14.88,default
+0.464,2.77,paid off
+0.302,12.45,default
+0.635,8.42,paid off
+0.447,9.03,default
+0.679,3.55,paid off
+0.43,6.58,default
+0.513,2.96,paid off
+0.644,7.64,paid off
+0.531,10.4,default
+0.75,5.09,paid off
+0.636,4.21,paid off
+0.456,6.62,default
+0.477,6.49,paid off
+0.551,5.96,paid off
+0.297,5.69,default
+0.684,2.03,paid off
+0.521,3.64,paid off
+0.387,5.75,default
+0.54,15.61,default
+0.373,11.11,default
+0.435,13.17,default
+0.657,5.46,paid off
+0.499,19.81,default
+0.706,2.76,paid off
+0.44,10.16,default
+0.498,6.63,paid off
+0.31,10.4,default
+0.447,19.3,default
+0.613,5.3,paid off
+0.483,4.37,paid off
+0.405,8.56,default
+0.385,10.44,default
+0.699,14.75,paid off
+0.415,9.37,default
+0.414,16.67,default
+0.31,11.42,default
+0.737,3.51,paid off
+0.544,4.7,paid off
+0.436,16.17,default
+0.498,6.7,paid off
+0.419,9.23,default
+0.546,2.9,paid off
+0.743,2.59,paid off
+0.425,10.46,default
+0.613,3.08,paid off
+0.329,12.19,default
+0.422,20.0,default
+0.407,11.1,default
+0.606,6.47,paid off
+0.573,3.8,paid off
+0.366,11.58,default
+0.668,3.45,paid off
+0.327,7.22,default
+0.454,10.62,default
+0.691,3.11,paid off
+0.398,11.85,default
+0.352,9.43,default
+0.604,3.48,paid off
+0.579,11.55,paid off
+0.557,10.27,default
+0.413,11.5,default
+0.476,9.31,default
+0.379,4.92,default
+0.407,12.31,default
+0.546,7.86,paid off
+0.601,4.05,paid off
+0.454,7.06,default
+0.593,12.26,paid off
+0.389,8.47,default
+0.632,7.11,paid off
+0.448,15.13,default
+0.732,3.26,paid off
+0.688,4.02,paid off
+0.654,5.12,paid off
+0.246,10.87,default
+0.421,9.56,default
+0.669,6.64,paid off
+0.591,3.09,paid off
+0.431,1.7,paid off
+0.56,13.11,default
+0.579,3.88,paid off
+0.442,4.61,default
+0.632,4.3,paid off
+0.748,3.57,paid off
+0.655,7.61,paid off
+0.652,4.16,paid off
+0.337,11.65,default
+0.502,10.58,default
+0.726,2.89,paid off
+0.47,7.55,paid off
+0.533,6.45,paid off
+0.624,4.14,paid off
+0.233,5.64,default
+0.467,18.61,default
+0.74,10.94,paid off
+0.51,6.58,default
+0.385,7.37,default
+0.611,5.36,paid off
+0.447,19.41,default
+0.699,4.99,paid off
+0.485,20.0,default
+0.611,5.07,paid off
+0.69,7.41,paid off
+0.413,5.14,paid off
+0.402,9.25,default
+0.569,3.3,paid off
+0.672,5.1,paid off
+0.612,2.13,paid off
+0.708,4.12,paid off
+0.538,9.17,default
+0.389,3.48,paid off
+0.543,11.89,default
+0.301,9.04,default
+0.496,6.95,default
+0.736,2.52,paid off
+0.426,7.65,default
+0.603,3.89,paid off
+0.483,5.33,paid off
+0.53,5.33,paid off
+0.761,9.42,paid off
+0.414,10.43,default
+0.566,12.36,paid off
+0.59,3.6,paid off
+0.604,8.46,default
+0.606,3.69,paid off
+0.474,3.68,paid off
+0.399,12.52,default
+0.536,12.88,paid off
+0.442,5.62,default
+0.255,9.79,default
+0.677,8.96,paid off
+0.362,11.77,default
+0.384,11.57,default
+0.475,15.47,default
+0.377,7.55,default
+0.569,7.4,default
+0.632,2.99,paid off
+0.432,5.44,default
+0.754,2.45,paid off
+0.629,4.41,paid off
+0.508,5.64,paid off
+0.581,2.65,paid off
+0.351,6.25,default
+0.712,4.55,paid off
+0.398,4.06,paid off
+0.718,6.4,paid off
+0.428,15.91,default
+0.361,20.0,default
+0.647,2.36,paid off
+0.707,2.18,paid off
+0.793,9.14,paid off
+0.329,4.92,default
+0.322,7.95,default
+0.441,8.16,default
+0.331,8.06,default
+0.507,4.72,default
+0.675,10.13,paid off
+0.621,4.63,paid off
+0.749,6.04,paid off
+0.617,3.89,paid off
+0.238,14.55,default
+0.509,15.88,default
+0.575,4.71,paid off
+0.27,8.78,default
+0.523,20.0,default
+0.647,8.25,paid off
+0.371,12.65,default
+0.569,5.22,paid off
+0.623,8.87,paid off
+0.454,4.55,paid off
+0.35,15.23,default
+0.329,16.43,default
+0.608,3.72,paid off
+0.557,2.34,paid off
+0.697,2.85,paid off
+0.621,3.23,paid off
+0.399,6.27,default
+0.41,6.54,default
+0.662,6.88,paid off
+0.671,6.43,paid off
+0.471,15.13,default
+0.571,18.33,default
+0.767,7.36,paid off
+0.322,10.51,default
+0.742,5.41,paid off
+0.412,6.41,default
+0.488,7.11,paid off
+0.413,7.49,default
+0.689,5.5,paid off
+0.372,16.29,default
+0.523,13.31,default
+0.208,7.01,default
+0.52,4.38,paid off
+0.465,3.03,paid off
+0.691,8.63,paid off
+0.332,12.69,default
+0.753,4.69,paid off
+0.686,4.24,paid off
+0.693,6.8,paid off
+0.739,4.17,paid off
+0.55,2.63,paid off
+0.485,8.68,paid off
+0.446,8.71,default
+0.481,13.72,default
+0.445,14.7,default
+0.433,20.0,default
+0.313,12.45,default
+0.374,14.88,default
+0.526,6.05,default
+0.604,2.97,paid off
+0.514,7.02,paid off
+0.334,9.58,default
+0.702,4.8,paid off
+0.338,17.18,default
+0.583,5.55,paid off
+0.615,6.38,paid off
+0.63,13.88,paid off
+0.235,14.09,default
+0.509,10.41,default
+0.683,9.25,paid off
+0.686,3.34,paid off
+0.673,4.58,paid off
+0.433,5.25,paid off
+0.285,7.66,default
+0.386,14.56,default
+0.433,11.85,default
+0.571,3.65,paid off
+0.763,6.06,paid off
+0.632,7.93,paid off
+0.659,4.91,paid off
+0.432,5.64,default
+0.705,4.54,paid off
+0.516,6.44,default
+0.269,10.58,default
+0.321,20.0,default
+0.715,2.86,paid off
+0.531,3.06,paid off
+0.355,6.24,paid off
+0.54,9.48,default
+0.569,3.77,paid off
+0.563,3.56,paid off
+0.543,3.96,paid off
+0.274,8.34,default
+0.689,2.71,paid off
+0.74,10.0,paid off
+0.452,9.07,default
+0.695,5.64,paid off
+0.633,4.25,paid off
+0.496,11.23,default
+0.712,2.74,paid off
+0.461,7.8,default
+0.745,4.93,paid off
+0.658,8.05,default
+0.691,6.22,paid off
+0.399,8.26,default
+0.66,9.42,paid off
+0.411,11.58,default
+0.669,1.72,paid off
+0.713,8.9,paid off
+0.387,10.78,default
+0.32,11.32,default
+0.532,7.05,paid off
+0.563,13.31,default
+0.661,2.91,paid off
+0.763,4.42,paid off
+0.538,2.73,paid off
+0.571,1.97,paid off
+0.433,15.79,default
+0.657,4.59,paid off
+0.431,19.81,default
+0.63,4.66,paid off
+0.727,3.61,paid off
+0.7,11.25,paid off
+0.697,4.73,paid off
+0.571,2.12,paid off
+0.452,17.63,default
+0.372,10.92,default
+0.427,9.35,default
+0.657,3.8,paid off
+0.651,4.47,paid off
+0.619,19.3,paid off
+0.316,7.17,default
+0.469,14.39,default
+0.629,3.77,paid off
+0.631,9.58,paid off
+0.341,14.69,default
+0.586,4.24,paid off
+0.387,8.87,default
+0.55,5.42,paid off
+0.294,16.25,default
+0.619,6.07,paid off
+0.584,6.54,paid off
+0.521,8.35,paid off
+0.549,2.92,paid off
+0.296,9.24,default
+0.302,3.26,paid off
+0.688,2.77,paid off
+0.355,6.92,default
+0.452,9.62,default
+0.457,9.73,default
+0.498,8.43,default
+0.535,9.8,default
+0.623,8.56,paid off
+0.4,10.4,default
+0.579,4.34,paid off
+0.408,8.88,default
+0.618,5.89,paid off
+0.349,10.51,paid off
+0.684,9.49,paid off
+0.703,7.97,paid off
+0.463,5.55,paid off
+0.381,4.02,paid off
+0.292,9.16,default
+0.348,13.76,default
+0.555,6.7,paid off
+0.563,7.72,default
+0.46,9.92,default
+0.501,6.27,paid off
+0.316,9.77,default
+0.443,10.15,paid off
+0.433,6.71,paid off
+0.547,11.91,paid off
+0.512,6.39,default
+0.718,2.95,paid off
+0.312,11.14,default
+0.556,3.83,paid off
+0.394,3.42,paid off
+0.554,6.72,paid off
+0.449,10.64,default
+0.435,8.18,default
+0.416,2.79,paid off
+0.667,12.21,default
+0.672,4.86,paid off
+0.656,2.35,paid off
+0.637,4.2,paid off
+0.388,6.1,default
+0.296,8.49,default
+0.607,9.4,paid off
+0.428,6.41,paid off
+0.378,8.21,default
+0.244,20.0,default
+0.455,10.24,default
+0.259,18.11,default
+0.382,14.98,default
+0.684,3.55,paid off
+0.594,4.43,paid off
+0.441,6.65,default
+0.481,13.85,default
+0.596,4.58,paid off
+0.356,19.68,default
+0.447,8.67,default
+0.193,11.45,default
+0.503,4.45,paid off
+0.551,5.6,paid off
+0.262,11.87,default
+0.305,7.32,default
+0.685,5.34,paid off
+0.308,11.26,default
+0.364,16.33,default
+0.337,15.45,default
+0.523,6.0,paid off
+0.598,3.35,paid off
+0.748,10.22,paid off
+0.654,4.49,paid off
+0.634,2.17,paid off
+0.508,10.78,default
+0.473,2.39,paid off
+0.615,4.62,paid off
+0.383,5.31,paid off
+0.604,4.76,paid off
+0.569,9.12,default
+0.235,10.71,default
+0.638,9.96,paid off
+0.19,11.56,default
+0.527,5.42,paid off
+0.585,2.92,paid off
+0.4,16.01,default
+0.661,9.45,paid off
+0.646,5.24,paid off
+0.438,15.88,default
+0.277,8.83,default
+0.701,3.85,paid off
+0.352,6.62,default
+0.578,2.39,paid off
+0.666,7.45,paid off
+0.669,4.16,paid off
+0.759,6.44,paid off
+0.647,5.38,paid off
+0.266,10.01,default
+0.489,6.09,default
+0.531,2.5,paid off
+0.68,4.36,paid off
+0.722,4.07,paid off
+0.646,4.52,paid off
+0.526,3.14,paid off
+0.408,15.61,default
+0.493,6.45,default
+0.667,3.87,paid off
+0.576,6.16,paid off
+0.288,11.88,default
+0.477,8.51,paid off
+0.689,4.55,paid off
+0.301,8.82,default
+0.587,5.46,paid off
+0.383,9.17,default
+0.445,9.42,default
+0.314,4.54,default
+0.417,10.11,default
+0.593,2.87,paid off
+0.288,11.33,default
+0.719,1.86,paid off
+0.452,7.79,default
+0.546,6.73,paid off
+0.579,14.85,default
+0.606,3.6,paid off
+0.324,11.96,default
+0.383,10.34,default
+0.558,10.12,default
+0.424,2.59,paid off
+0.228,15.39,default
+0.38,9.41,default
+0.754,4.99,paid off
+0.45,14.13,default
+0.509,8.17,paid off
+0.348,14.6,default
+0.275,8.58,default
+0.631,5.67,paid off
+0.609,3.48,paid off
+0.585,9.86,paid off
+0.584,2.71,paid off
+0.359,8.67,default
+0.457,16.96,default
+0.281,7.63,default
+0.434,7.74,default
+0.55,8.83,paid off
+0.674,3.38,paid off
+0.446,16.68,default
+0.601,4.39,paid off
+0.598,6.07,paid off
+0.386,4.1,paid off
+0.292,8.04,default
+0.588,6.24,paid off
+0.415,1.54,paid off
+0.253,11.87,default
+0.63,5.65,paid off
+0.631,9.25,paid off
+0.442,7.97,default
+0.495,4.76,paid off
+0.779,5.51,paid off
+0.593,6.04,paid off
+0.628,4.51,paid off
+0.267,8.57,default
+0.532,9.09,default
+0.481,6.33,paid off
+0.485,9.03,paid off
+0.669,2.45,paid off
+0.597,6.27,paid off
+0.526,6.66,default
+0.718,2.15,paid off
+0.341,7.01,default
+0.433,11.48,default
+0.525,6.21,paid off
+0.495,12.0,default
+0.349,9.9,default
+0.697,2.57,paid off
+0.574,7.22,paid off
+0.321,16.54,default
+0.405,8.49,default
+0.688,5.37,paid off
+0.365,14.13,default
+0.538,8.74,default
+0.275,10.07,default
+0.278,9.28,default
+0.618,3.54,paid off
+0.676,4.5,paid off
+0.423,8.22,default
+0.679,4.74,paid off
+0.6,20.0,default
+0.718,2.96,paid off
+0.397,9.35,default
+0.624,1.77,paid off
+0.278,4.77,default
+0.404,12.02,default
+0.303,11.66,default
+0.771,6.1,paid off
+0.398,7.29,default
+0.515,5.49,paid off
+0.214,11.03,default
+0.704,5.91,paid off
+0.628,6.51,paid off
+0.521,5.65,paid off
+0.624,7.44,paid off
+0.436,17.86,default
+0.512,11.19,paid off
+0.629,2.11,paid off
+0.388,6.82,default
+0.657,2.55,paid off
+0.462,19.25,default
+0.596,2.63,paid off
+0.534,17.52,default
+0.258,8.35,default
+0.657,5.4,paid off
+0.573,6.37,paid off
+0.608,4.95,paid off
+0.437,13.55,default
+0.719,8.36,paid off
+0.736,10.96,paid off
+0.31,8.44,default
+0.646,2.01,paid off
+0.592,5.58,paid off
+0.648,6.8,paid off
+0.634,4.6,paid off
+0.63,4.59,paid off
+0.404,6.63,default
+0.188,8.15,default
+0.52,13.08,default
+0.494,8.6,default
+0.499,3.23,paid off
+0.586,6.41,paid off
+0.391,13.03,default
+0.482,2.46,paid off
+0.415,2.78,paid off
+0.703,6.87,default
+0.588,4.3,paid off
+0.681,6.05,paid off
+0.5,4.55,paid off
+0.434,11.01,paid off
+0.491,15.87,default
+0.58,5.81,paid off
+0.69,5.79,paid off
+0.481,7.27,default
+0.206,13.46,default
+0.496,8.42,default
+0.455,9.34,default
+0.693,6.65,paid off
+0.467,11.45,default
+0.584,8.56,paid off
+0.487,4.58,paid off
+0.374,6.22,default
+0.663,2.19,paid off
+0.679,4.62,paid off
+0.69,6.42,paid off
+0.562,9.93,default
+0.741,8.36,paid off
+0.248,9.34,default
+0.598,5.41,paid off
+0.533,6.68,paid off
+0.552,3.95,paid off
+0.314,13.03,default
+0.313,13.85,default
+0.487,4.87,paid off
+0.44,10.85,default
+0.564,2.73,paid off
+0.537,8.07,paid off
+0.285,9.51,default
+0.38,14.31,default
+0.531,2.91,paid off
+0.657,3.53,paid off
+0.278,10.7,default
+0.529,3.08,paid off
+0.342,5.89,paid off
+0.493,7.67,paid off
+0.619,2.88,paid off
+0.695,6.67,paid off
+0.405,8.41,default
+0.739,7.0,paid off
+0.552,20.0,default
+0.578,6.12,paid off
+0.501,9.21,paid off
+0.236,10.46,default
+0.295,9.31,default
+0.659,4.84,paid off
+0.288,11.76,default
+0.568,4.26,paid off
+0.565,3.0,paid off
+0.565,6.96,paid off
+0.626,6.66,paid off
+0.355,15.34,default
+0.647,7.72,paid off
+0.394,16.84,default
+0.605,5.52,paid off
+0.352,12.06,default
+0.44,9.6,default
+0.446,13.02,default
+0.646,6.1,paid off
+0.321,7.8,default
+0.71,5.05,paid off
+0.689,12.04,paid off
+0.378,16.46,default
+0.404,10.76,default
+0.661,2.91,paid off
+0.397,11.06,default
+0.563,2.61,paid off
+0.596,5.38,paid off
+0.56,5.11,paid off
+0.442,12.92,default
+0.664,3.62,paid off
+0.603,2.29,paid off
+0.661,7.1,paid off
+0.692,2.4,paid off
+0.433,11.31,default
+0.524,2.79,paid off
+0.489,8.6,default
+0.596,4.06,paid off
+0.676,5.64,paid off
+0.647,20.0,default
+0.29,16.06,default
+0.685,8.54,paid off
+0.523,9.04,default
+0.41,14.49,default
+0.481,5.72,default
+0.705,4.71,paid off
+0.585,3.53,paid off
+0.518,6.83,paid off
+0.503,8.3,default
+0.56,11.3,default
+0.513,7.64,default
+0.576,1.93,paid off
+0.435,15.55,default
+0.587,13.53,paid off
+0.552,4.11,paid off
+0.29,12.44,default
+0.557,4.35,paid off
+0.639,6.47,paid off
+0.481,2.42,paid off
+0.371,14.24,default
+0.559,4.64,paid off
+0.272,14.61,default
+0.591,4.29,paid off
+0.316,10.11,default
+0.347,20.0,default
+0.702,6.31,paid off
+0.536,5.58,default
+0.342,15.36,default
+0.429,11.12,default
+0.562,15.93,default
+0.535,9.52,default
+0.738,4.73,paid off
+0.647,3.03,paid off
+0.408,14.94,default
+0.472,2.58,paid off
+0.441,4.18,paid off
+0.565,6.54,paid off
+0.322,15.73,default
+0.185,8.59,default
+0.555,6.79,paid off
+0.217,10.31,default
+0.278,9.15,default
+0.413,11.92,default
+0.451,5.59,default
+0.455,14.91,default
+0.642,2.11,paid off
+0.593,11.74,default
+0.62,10.38,paid off
+0.302,10.52,paid off
+0.588,9.47,default
+0.74,5.86,paid off
+0.482,5.94,paid off
+0.47,3.05,paid off
+0.551,7.4,paid off
+0.262,5.05,default
+0.202,14.8,default
+0.504,15.1,default
+0.636,6.87,paid off
+0.472,9.74,paid off
+0.721,5.2,paid off
+0.737,4.97,paid off
+0.78,4.96,paid off
+0.414,18.34,default
+0.604,8.16,paid off
+0.465,3.23,paid off
+0.572,2.88,paid off
+0.656,6.88,paid off
+0.499,4.54,paid off
+0.245,13.14,default
+0.656,6.38,paid off
+0.377,12.28,default
+0.573,10.3,paid off
+0.597,4.83,paid off
+0.505,8.81,default
+0.624,6.89,paid off
+0.254,13.63,default
+0.666,3.71,paid off
+0.405,12.21,default
+0.316,7.89,default
+0.676,4.85,paid off
+0.58,3.95,paid off
+0.618,8.14,paid off
+0.578,10.38,default
+0.423,13.15,default
+0.487,10.4,default
+0.662,5.24,paid off
+0.481,19.32,default
+0.605,9.93,paid off
+0.682,5.71,paid off
+0.503,4.46,paid off
+0.462,6.08,default
+0.636,7.79,paid off
+0.378,12.11,default
+0.541,6.39,paid off
+0.361,20.0,default
+0.352,13.72,default
+0.535,12.55,default
+0.295,5.51,default
+0.648,6.78,paid off
+0.501,15.27,default
+0.59,6.25,paid off
+0.353,10.53,default
+0.549,11.37,paid off
+0.558,9.63,default
+0.591,9.49,paid off
+0.662,5.87,paid off
+0.677,4.92,paid off
+0.308,5.94,default
+0.219,13.31,default
+0.448,8.52,paid off
+0.59,3.36,paid off
+0.568,13.59,default
+0.281,9.04,default
+0.79,3.99,paid off
+0.267,9.09,default
+0.525,5.1,paid off
+0.321,7.28,default
+0.568,5.51,paid off
+0.704,5.18,paid off
+0.477,3.59,paid off
+0.434,6.97,default
+0.662,11.11,default
+0.442,16.12,default
+0.535,10.42,paid off
+0.654,3.73,paid off
+0.198,11.43,default
+0.756,5.28,paid off
+0.358,11.6,default
+0.255,17.17,default
+0.405,10.82,paid off
+0.272,7.1,default
+0.328,8.98,default
+0.735,9.73,paid off
+0.57,5.85,paid off
+0.49,5.37,paid off
+0.212,15.3,default
+0.614,5.92,paid off
+0.681,5.24,paid off
+0.601,6.22,default
+0.34,14.23,default
+0.242,7.7,default
+0.55,3.52,paid off
+0.724,4.69,paid off
+0.374,7.36,default
+0.354,17.34,default
+0.485,6.18,paid off
+0.336,8.27,default
+0.426,15.23,default
+0.692,6.16,paid off
+0.362,12.36,default
+0.673,2.14,paid off
+0.301,9.75,default
+0.617,4.15,paid off
+0.448,2.23,paid off
+0.703,3.01,paid off
+0.241,18.83,default
+0.609,2.17,paid off
+0.532,6.71,default
+0.311,8.89,default
+0.45,6.83,default
+0.355,10.78,default
+0.485,18.89,default
+0.617,3.58,paid off
+0.758,5.65,paid off
+0.567,2.76,paid off
+0.548,3.32,paid off
+0.65,6.24,paid off
+0.258,12.06,default
+0.623,4.98,paid off
+0.317,9.71,default
+0.711,4.65,paid off
+0.648,5.62,paid off
+0.65,2.52,paid off
+0.495,7.11,default
+0.251,12.27,default
+0.477,12.26,paid off
+0.44,5.91,paid off
+0.6,12.3,default
+0.216,12.46,default
+0.647,3.16,paid off
+0.362,14.98,default
+0.37,5.25,default
+0.579,8.14,default
+0.699,3.34,paid off
+0.743,1.95,paid off
+0.379,20.0,default
+0.4,8.5,paid off
+0.566,4.29,default
+0.583,8.1,paid off
+0.646,6.24,paid off
+0.65,4.85,paid off
+0.415,14.55,default
+0.378,11.84,default
+0.497,2.28,paid off
+0.424,7.93,default
+0.659,1.96,paid off
+0.55,9.27,default
+0.573,4.32,paid off
+0.272,16.22,default
+0.551,1.81,paid off
+0.66,10.31,paid off
+0.298,13.56,default
+0.716,6.12,paid off
+0.386,9.01,paid off
+0.43,7.95,default
+0.315,18.45,default
+0.323,12.09,default
+0.582,7.3,paid off
+0.541,5.46,default
+0.394,3.85,paid off
+0.422,8.98,default
+0.288,6.36,default
+0.619,3.77,paid off
+0.39,11.43,default
+0.771,2.98,paid off
+0.593,7.2,paid off
+0.526,5.95,paid off
+0.576,6.1,paid off
+0.402,8.53,default
+0.687,3.37,paid off
+0.631,3.82,paid off
+0.49,8.31,default
+0.503,8.76,paid off
+0.522,11.43,default
+0.529,8.66,default
+0.467,2.31,paid off
+0.715,4.75,paid off
+0.671,7.36,paid off
+0.324,14.67,default
+0.747,2.98,paid off
+0.772,5.4,paid off
+0.687,3.05,paid off
+0.742,10.94,paid off
+0.302,10.77,default
+0.408,8.38,default
+0.624,3.42,paid off
+0.249,8.4,default
+0.354,15.01,default
+0.654,5.64,paid off
+0.518,3.21,paid off
+0.8,4.69,paid off
+0.33,5.29,paid off
+0.445,6.4,paid off
+0.622,11.22,paid off
+0.589,9.99,default
+0.607,6.81,paid off
+0.69,2.97,paid off
+0.61,5.7,paid off
+0.518,19.94,default
+0.392,6.63,default
+0.729,3.9,paid off
+0.736,6.3,paid off
+0.303,10.35,default
+0.275,6.89,default
+0.504,6.77,paid off
+0.415,20.0,default
+0.456,12.76,default
+0.552,8.06,default
+0.612,2.53,paid off
+0.582,6.5,paid off
+0.709,4.79,paid off
+0.576,7.77,paid off
+0.688,9.56,paid off
+0.437,9.87,default
+0.2,10.9,default
+0.438,7.31,default
+0.718,10.21,paid off
+0.235,11.83,default
+0.401,5.72,default
+0.588,4.02,paid off
+0.751,3.41,paid off
+0.544,15.16,default
+0.452,7.46,default
+0.473,2.85,paid off
+0.445,8.41,default
+0.327,6.28,default
+0.577,13.48,default
+0.655,6.51,paid off
+0.484,5.75,default
+0.661,3.78,paid off
+0.728,4.92,paid off
+0.463,9.75,default
+0.33,9.71,default
+0.47,12.83,default
+0.468,14.34,default
+0.276,11.4,default
+0.359,9.96,default
+0.398,17.26,default
+0.519,5.95,default
+0.645,8.98,paid off
+0.541,9.86,paid off
+0.344,13.39,default
+0.354,20.0,default
+0.596,5.2,paid off
+0.392,6.56,paid off
+0.732,5.04,paid off
+0.644,3.25,paid off
+0.369,7.14,paid off
+0.73,5.34,paid off
+0.492,4.97,paid off
+0.638,2.36,paid off
+0.393,10.12,default
+0.692,3.24,paid off
+0.572,7.22,paid off
+0.663,6.61,paid off
+0.56,10.42,paid off
+0.345,9.62,default
+0.566,6.14,paid off
+0.411,20.0,default
+0.381,8.29,default
+0.585,5.6,paid off
+0.737,6.0,paid off
+0.662,2.82,paid off
+0.435,7.62,default
+0.697,11.35,paid off
+0.725,7.95,paid off
+0.658,6.74,paid off
+0.251,8.83,default
+0.69,3.75,paid off
+0.381,12.16,default
+0.712,6.28,paid off
+0.283,10.41,default
+0.343,9.66,default
+0.234,10.45,default
+0.522,7.62,default
+0.317,12.44,default
+0.389,5.49,default
+0.545,12.49,default
+0.408,5.55,default
+0.711,6.09,paid off
+0.541,5.04,paid off
+0.452,7.64,paid off
+0.693,3.69,paid off
+0.408,7.99,paid off
+0.693,3.76,paid off
+0.498,13.08,default
+0.633,5.23,paid off
+0.683,4.72,paid off
+0.422,8.47,paid off
+0.477,7.76,default
+0.481,6.79,paid off
+0.273,6.43,default
+0.658,8.55,paid off
+0.471,4.51,paid off
+0.296,11.74,default
+0.543,5.25,paid off
+0.443,10.82,default
+0.612,7.0,paid off
+0.57,9.59,default
+0.789,3.79,paid off
+0.27,5.97,default
+0.515,5.7,paid off
+0.329,9.38,default
+0.543,5.29,paid off
+0.53,4.4,paid off
+0.496,7.39,default
+0.537,4.57,paid off
+0.449,13.54,default
+0.489,4.7,default
+0.69,11.61,paid off
+0.769,3.78,paid off
+0.643,3.12,paid off
+0.8,2.53,paid off
+0.643,6.7,paid off
+0.556,8.18,paid off
+0.399,11.93,default
+0.305,11.86,default
+0.674,7.88,paid off
+0.711,7.07,paid off
+0.585,8.37,paid off
+0.403,6.68,paid off
+0.69,8.02,paid off
+0.688,3.04,paid off
+0.378,10.46,paid off
+0.406,6.0,default
+0.432,10.76,default
+0.648,1.88,paid off
+0.381,9.76,default
+0.576,6.7,paid off
+0.594,6.58,paid off
+0.382,7.23,default
+0.587,9.02,paid off
+0.371,11.79,default
+0.782,4.25,paid off
+0.284,13.81,default
+0.575,12.78,paid off
+0.737,5.1,paid off
+0.601,6.72,paid off
+0.428,9.58,default
+0.615,10.72,paid off
+0.354,7.15,default
+0.294,17.76,default
+0.735,3.73,paid off
+0.743,4.76,paid off
+0.224,12.74,default
+0.284,13.01,default
+0.422,8.31,default
+0.556,10.86,paid off
+0.292,7.35,default
+0.627,2.69,paid off
+0.381,20.0,default
+0.757,5.92,paid off
+0.636,3.79,paid off
+0.663,7.83,paid off
+0.634,4.09,paid off
+0.226,10.0,default
+0.184,7.11,default
+0.384,9.21,default
+0.725,4.8,paid off
+0.499,2.79,paid off
+0.459,4.35,default
+0.758,6.26,paid off
+0.61,2.38,paid off
+0.579,7.62,paid off
+0.256,8.16,default
+0.259,20.0,default
+0.483,20.0,default
+0.552,1.2,paid off
+0.528,8.56,default
+0.488,11.42,default
+0.252,5.66,default
+0.647,2.83,paid off
+0.677,3.7,paid off
+0.37,8.96,default
+0.702,2.8,paid off
+0.364,15.64,default
+0.599,6.55,paid off
+0.557,2.77,paid off
+0.792,2.89,paid off
+0.464,9.07,default
+0.499,6.75,paid off
+0.677,2.05,paid off
+0.265,10.2,default
+0.623,5.54,paid off
+0.529,5.96,default
+0.244,15.49,default
+0.341,11.43,default
+0.48,6.56,default
+0.33,11.95,default
+0.379,10.8,default
+0.4,13.17,default
+0.432,8.42,default
+0.342,10.51,default
+0.225,11.2,default
+0.71,2.65,paid off
+0.674,6.14,paid off
+0.745,4.02,paid off
+0.429,10.71,default
+0.298,8.49,default
+0.483,10.29,default
+0.248,13.2,default
+0.643,10.13,paid off
+0.396,11.82,default
+0.598,6.44,paid off
+0.524,12.47,default
+0.675,7.93,paid off
+0.502,8.9,default
+0.52,1.4,paid off
+0.72,6.4,paid off
+0.427,5.96,default
+0.513,10.58,default
+0.271,4.97,default
+0.384,16.79,default
+0.433,7.23,default
+0.567,4.4,paid off
+0.625,4.09,paid off
+0.336,15.85,default
+0.319,8.99,default
+0.167,14.44,default
+0.762,11.56,paid off
+0.509,5.44,paid off
+0.311,8.95,default
+0.694,9.42,paid off
+0.725,11.04,paid off
+0.286,5.12,default
+0.38,7.87,default
+0.417,7.89,default
+0.578,7.82,paid off
+0.223,7.53,default
+0.472,9.39,default
+0.743,3.73,paid off
+0.416,7.72,default
+0.404,10.3,default
+0.225,13.97,default
+0.672,3.08,paid off
+0.666,4.53,paid off
+0.699,5.0,paid off
+0.279,6.12,default
+0.718,3.68,paid off
+0.412,9.28,default
+0.323,7.71,default
+0.551,5.62,paid off
+0.541,4.36,default
+0.4,8.27,default
+0.629,3.68,paid off
+0.429,9.11,default
+0.354,12.13,default
+0.579,6.83,paid off
+0.652,7.13,paid off
+0.243,7.74,default
+0.717,3.37,paid off
+0.661,1.55,paid off
+0.267,10.21,default
+0.38,12.61,default
+0.631,8.44,default
+0.457,3.46,paid off
+0.499,5.52,paid off
+0.429,12.39,default
+0.783,1.86,paid off
+0.653,3.51,paid off
+0.515,10.64,default
+0.567,10.67,default
+0.704,2.56,paid off
+0.524,6.73,paid off
+0.453,9.22,default
+0.677,5.31,paid off
+0.55,5.81,paid off
+0.172,6.76,default
+0.47,5.07,paid off
+0.758,7.13,paid off
+0.246,10.61,default
+0.429,19.93,default
+0.541,1.89,paid off
+0.594,6.13,paid off
+0.27,9.65,default
+0.283,7.55,default
+0.324,8.06,default
+0.572,12.16,default
+0.497,12.0,default
+0.177,7.34,default
+0.481,2.28,paid off
+0.421,9.63,paid off
+0.577,3.83,paid off
+0.672,2.28,paid off
+0.357,6.61,default
+0.551,15.89,default
+0.649,10.04,paid off
+0.52,3.75,paid off
+0.625,3.88,paid off
+0.386,7.4,default
+0.67,5.42,paid off
+0.749,8.01,paid off
+0.457,8.53,paid off
+0.564,3.69,paid off
+0.732,4.09,paid off
+0.273,17.3,default
+0.661,7.18,paid off
+0.714,8.35,paid off
+0.657,2.69,paid off
+0.583,1.77,paid off
+0.439,9.38,default
+0.561,17.59,default
+0.485,9.89,paid off
+0.591,8.93,paid off
+0.708,4.25,paid off
+0.199,8.08,default
+0.554,5.57,paid off
+0.604,8.68,paid off
+0.572,6.11,paid off
+0.294,8.3,default
+0.508,7.35,default
+0.305,8.7,default
+0.512,8.22,paid off
+0.453,6.98,default
+0.536,2.15,paid off
+0.58,4.77,paid off
+0.437,15.9,default
+0.739,4.92,paid off
+0.425,4.39,default
+0.402,10.36,default
+0.238,12.82,default
+0.349,13.48,default
+0.351,10.44,default
+0.577,3.85,paid off
+0.321,12.4,default
+0.543,4.83,paid off
+0.34,9.56,default
+0.73,4.68,paid off
+0.722,6.49,paid off
+0.632,7.82,paid off
+0.472,18.4,default
+0.182,14.99,default
+0.732,2.89,paid off
+0.614,6.64,paid off
+0.253,8.85,default
+0.694,3.66,paid off
+0.351,10.7,default
+0.577,8.56,paid off
+0.636,7.03,paid off
+0.582,3.92,paid off
+0.442,9.02,default
+0.537,6.13,paid off
+0.73,8.3,paid off
+0.554,8.58,default
+0.694,3.35,paid off
+0.529,6.47,paid off
+0.618,4.66,paid off
+0.6,2.84,paid off
+0.525,7.42,paid off
+0.462,5.32,paid off
+0.69,3.45,paid off
+0.696,3.34,paid off
+0.572,2.46,paid off
+0.746,4.14,paid off
+0.652,7.76,paid off
+0.554,3.64,paid off
+0.603,6.92,paid off
+0.424,8.68,default
+0.632,2.44,paid off
+0.612,5.02,paid off
+0.27,20.0,default
+0.604,10.0,paid off
+0.405,10.12,default
+0.532,12.67,default
+0.617,6.65,paid off
+0.412,8.51,default
+0.738,4.73,paid off
+0.639,4.55,paid off
+0.486,6.47,paid off
+0.653,9.52,paid off
+0.693,2.89,paid off
+0.332,10.01,default
+0.361,8.6,default
+0.324,12.27,default
+0.241,11.97,default
+0.394,4.57,paid off
+0.263,10.91,default
+0.54,5.89,paid off
+0.247,12.95,default
+0.537,10.07,default
+0.386,14.38,default
+0.609,6.09,paid off
+0.346,12.57,default
+0.367,18.57,default
+0.469,2.01,paid off
+0.506,4.83,paid off
+0.383,13.52,default
+0.712,10.09,paid off
+0.377,13.6,default
+0.589,6.43,paid off
+0.605,5.27,paid off
+0.346,9.61,default
+0.639,3.65,paid off
+0.626,3.54,paid off
+0.494,4.25,paid off
+0.256,8.13,default
+0.553,6.6,paid off
+0.483,11.92,default
+0.711,5.97,paid off
+0.188,9.15,default
+0.285,6.36,default
+0.37,12.55,default
+0.415,12.44,default
+0.555,7.61,paid off
+0.507,2.26,paid off
+0.532,12.76,default
+0.588,3.93,paid off
+0.75,6.22,paid off
+0.279,10.75,default
+0.709,3.42,paid off
+0.601,4.23,paid off
+0.666,2.22,paid off
+0.403,5.47,paid off
+0.727,7.08,paid off
+0.752,4.65,paid off
+0.496,2.82,paid off
+0.645,2.17,paid off
+0.333,5.06,default
+0.597,6.12,paid off
+0.335,9.2,default
+0.783,4.24,paid off
+0.621,3.31,paid off
+0.386,13.7,default
+0.665,2.12,paid off
+0.554,5.19,paid off
+0.636,2.64,paid off
+0.697,8.53,paid off
+0.683,5.52,paid off
+0.338,7.5,default
+0.217,12.85,default
+0.397,5.19,paid off
+0.616,5.53,paid off
+0.641,9.1,paid off
+0.571,9.93,default
+0.261,12.98,default
+0.67,4.84,paid off
+0.511,3.96,paid off
+0.598,3.59,paid off
+0.44,8.45,default
+0.628,5.02,paid off
+0.333,10.69,default
+0.613,3.95,paid off
+0.407,10.48,default
+0.633,4.33,paid off
+0.327,14.5,default
+0.476,13.03,default
+0.767,1.36,paid off
+0.515,4.22,paid off
+0.705,2.83,paid off
+0.634,3.45,paid off
+0.472,10.5,default
+0.268,7.45,default
+0.692,5.3,paid off
+0.507,7.1,paid off
+0.401,7.28,paid off
+0.712,2.01,paid off
+0.411,10.17,default
+0.272,11.29,default
+0.728,9.52,paid off
+0.395,9.32,default
+0.532,8.06,default
+0.658,5.48,paid off
+0.429,16.2,default
+0.692,5.15,paid off
+0.489,4.67,paid off
+0.55,7.08,default
+0.679,14.6,default
+0.422,7.31,default
+0.268,13.04,default
+0.63,3.77,paid off
+0.564,11.72,default
+0.57,2.55,paid off
+0.435,13.96,default
+0.657,9.38,paid off
+0.511,8.65,paid off
+0.283,12.96,default
+0.372,11.72,default
+0.42,8.4,default
+0.474,12.53,default
+0.636,2.97,paid off
+0.202,7.98,default
+0.371,6.8,default
+0.423,7.6,default
+0.349,15.44,default
+0.642,2.01,paid off
+0.321,16.22,default
+0.336,9.12,default
+0.662,7.0,paid off
+0.496,15.69,default
+0.241,8.82,default
+0.606,3.06,paid off
+0.592,5.27,paid off
+0.403,4.78,default
+0.316,10.64,default
+0.518,7.02,paid off
+0.638,4.91,paid off
+0.684,5.33,paid off
+0.572,3.46,paid off
+0.326,8.63,default
+0.463,9.76,paid off
+0.459,4.35,paid off
+0.594,4.31,paid off
+0.415,7.24,default
+0.325,14.62,default
+0.52,8.12,paid off
+0.605,3.17,paid off
+0.761,5.85,paid off
+0.548,9.66,default
+0.26,7.57,default
+0.665,2.72,paid off
+0.532,7.33,default
+0.57,8.93,default
+0.37,9.33,default
+0.646,5.97,paid off
+0.326,11.93,default
+0.686,3.37,paid off
+0.673,4.51,paid off
+0.287,7.99,default
+0.464,3.59,paid off
+0.371,17.5,default
+0.585,10.73,default
+0.729,4.53,paid off
+0.703,10.6,default
+0.534,5.38,paid off
+0.23,11.5,default
+0.523,5.65,paid off
+0.524,10.45,default
+0.375,11.02,default
+0.368,10.36,default
+0.292,20.0,default
+0.754,5.71,paid off
+0.576,8.75,default
+0.356,7.32,default
+0.743,5.74,paid off
+0.365,17.06,default
+0.585,4.91,paid off
+0.625,6.66,paid off
+0.739,8.54,paid off
+0.532,10.51,paid off
+0.534,7.93,paid off
+0.577,7.19,paid off
+0.536,3.57,paid off
+0.362,8.13,default
+0.31,10.5,default
+0.48,8.83,default
+0.663,7.48,paid off
+0.545,2.41,paid off
+0.344,12.57,default
+0.704,6.23,paid off
+0.646,4.3,paid off
+0.717,3.41,paid off
+0.466,11.93,default
+0.526,6.03,paid off
+0.431,9.58,default
+0.469,2.95,paid off
+0.464,10.88,default
+0.595,5.2,paid off
+0.495,12.37,paid off
+0.324,10.47,default
+0.608,7.25,paid off
+0.398,10.65,default
+0.291,20.0,default
+0.472,3.75,paid off
+0.432,19.25,default
+0.564,7.58,paid off
+0.726,4.45,paid off
+0.237,20.0,default
+0.368,10.25,default
+0.497,9.19,default
+0.366,7.22,default
+0.261,12.04,default
+0.335,12.33,default
+0.518,4.98,paid off
+0.504,14.36,default
+0.489,6.27,paid off
+0.732,5.77,paid off
+0.492,6.31,paid off
+0.522,3.74,paid off
+0.569,7.76,paid off
+0.439,13.51,default
+0.594,9.87,paid off
+0.569,10.55,default
+0.379,5.94,default
+0.296,12.67,default
+0.638,13.76,default
+0.748,4.16,paid off
+0.8,2.84,paid off
+0.172,15.9,default
+0.362,10.92,default
+0.452,7.0,default
+0.562,2.6,paid off
+0.447,12.09,default
+0.449,6.2,default
+0.704,7.65,paid off
+0.57,9.9,default
+0.267,9.49,default
+0.562,6.67,paid off
+0.496,7.35,default
+0.535,2.49,paid off
+0.475,8.52,paid off
+0.271,11.19,default
+0.365,14.73,default
+0.394,9.06,default
+0.298,6.72,default
+0.587,6.06,paid off
+0.672,8.38,paid off
+0.361,11.74,default
+0.759,2.38,paid off
+0.577,2.93,paid off
+0.336,9.44,default
+0.554,6.03,default
+0.455,9.66,default
+0.482,1.94,paid off
+0.444,9.27,default
+0.626,4.01,paid off
+0.52,9.98,default
+0.566,8.99,default
+0.659,4.36,paid off
+0.45,20.0,default
+0.771,8.61,paid off
+0.49,10.33,default
+0.431,9.68,default
+0.748,5.41,paid off
+0.533,10.62,paid off
+0.515,10.5,default
+0.419,6.36,default
+0.515,14.05,default
+0.483,10.32,default
+0.491,7.32,paid off
+0.641,5.1,paid off
+0.522,6.18,paid off
+0.369,5.74,default
+0.353,9.36,default
+0.508,8.5,default
+0.366,9.96,default
+0.639,4.9,paid off
+0.295,11.34,default
+0.341,10.61,default
+0.771,5.83,paid off
+0.635,7.7,paid off
+0.334,6.35,default
+0.588,1.21,paid off
+0.404,17.06,default
+0.329,16.16,default
+0.652,7.33,paid off
+0.54,7.18,paid off
+0.494,7.47,paid off
+0.415,12.1,default
+0.446,10.23,default
+0.453,6.36,paid off
+0.578,4.21,paid off
+0.692,3.93,paid off
+0.737,3.33,paid off
+0.529,3.39,paid off
+0.432,14.28,default
+0.297,6.03,default
+0.559,2.42,paid off
+0.26,9.42,default
+0.43,4.97,paid off
+0.35,8.25,default
+0.62,5.09,paid off
+0.631,4.52,paid off
+0.648,7.75,paid off
+0.585,7.02,paid off
+0.272,4.7,default
+0.481,4.14,paid off
+0.756,8.32,paid off
+0.56,4.88,paid off
+0.283,9.44,default
+0.618,2.22,paid off
+0.482,9.98,paid off
+0.431,8.32,default
+0.64,3.47,paid off
+0.712,5.41,paid off
+0.619,6.14,paid off
+0.779,7.26,paid off
+0.603,9.88,paid off
+0.617,8.59,paid off
+0.756,12.0,paid off
+0.469,6.49,default
+0.637,3.74,paid off
+0.477,16.49,default
+0.534,10.71,paid off
+0.643,5.5,paid off
+0.303,10.45,default
+0.527,7.77,default
+0.362,19.12,default
+0.529,18.32,default
+0.524,15.96,default
+0.458,9.64,default
+0.449,9.43,default
+0.651,3.99,paid off
+0.565,7.46,paid off
+0.578,9.47,paid off
+0.594,8.06,default
+0.783,4.4,paid off
+0.534,5.94,paid off
+0.57,10.25,default
+0.593,1.83,paid off
+0.538,8.44,default
+0.591,4.09,paid off
+0.587,2.99,paid off
+0.257,7.22,default
+0.535,10.24,default
+0.297,11.79,default
+0.594,3.3,paid off
+0.697,13.94,paid off
+0.299,18.17,default
+0.596,3.91,paid off
+0.422,8.34,default
+0.253,10.36,default
+0.324,6.91,default
+0.359,9.36,default
+0.558,13.42,default
+0.622,4.54,paid off
+0.55,13.55,default
+0.455,19.98,default
+0.281,7.31,default
+0.242,13.16,default
+0.537,12.53,default
+0.532,8.01,paid off
+0.691,5.59,paid off
+0.712,2.86,paid off
+0.726,3.43,paid off
+0.755,4.77,paid off
+0.412,7.22,paid off
+0.402,12.79,default
+0.537,4.43,paid off
+0.381,8.37,default
+0.633,6.38,paid off
+0.762,4.59,paid off
+0.602,4.38,paid off
+0.584,3.91,paid off
+0.632,2.48,paid off
+0.524,8.89,paid off
+0.601,3.92,paid off
+0.347,15.79,default
+0.73,1.85,paid off
+0.37,13.12,default
+0.572,10.28,paid off
+0.389,6.63,default
+0.47,7.82,paid off
+0.735,5.09,paid off
+0.674,3.11,paid off
+0.383,4.06,paid off
+0.58,4.17,paid off
+0.614,5.83,paid off
+0.8,7.78,paid off
+0.384,9.88,default
+0.561,8.0,default
+0.521,10.19,default
+0.709,7.84,paid off
+0.585,12.79,default
+0.622,7.4,paid off
+0.513,3.06,paid off
+0.246,15.27,default
+0.778,5.91,paid off
+0.739,4.66,paid off
+0.353,16.36,default
+0.375,2.68,paid off
+0.198,9.49,default
+0.761,5.3,paid off
+0.724,3.99,paid off
+0.664,2.44,paid off
+0.257,12.24,default
+0.6,3.82,paid off
+0.422,16.29,default
+0.728,10.08,paid off
+0.457,3.95,paid off
+0.518,6.47,default
+0.62,9.69,default
+0.359,9.41,default
+0.625,3.63,paid off
+0.34,11.38,default
+0.455,11.87,default
+0.67,4.09,paid off
+0.426,4.19,default
+0.694,12.02,paid off
+0.563,7.8,paid off
+0.308,9.36,default
+0.686,7.3,paid off
+0.451,9.24,default
+0.527,15.62,default
+0.525,8.0,default
+0.472,4.31,paid off
+0.703,4.92,paid off
+0.293,12.02,default
+0.418,10.16,default
+0.657,20.0,paid off
+0.655,4.84,paid off
+0.715,13.11,paid off
+0.528,9.36,default
+0.483,2.96,paid off
+0.747,6.17,paid off
+0.559,5.02,paid off
+0.53,11.81,default
+0.686,3.34,paid off
+0.475,5.51,paid off
+0.523,15.28,default
+0.689,4.06,paid off
+0.397,12.57,default
+0.234,6.67,default
+0.435,8.62,paid off
+0.279,10.83,default
+0.672,9.87,paid off
+0.409,7.59,default
+0.289,6.68,default
+0.387,6.34,default
+0.566,11.13,paid off
+0.609,1.96,paid off
+0.658,2.6,paid off
+0.595,11.99,default
+0.511,10.09,default
+0.653,8.1,paid off
+0.522,3.96,paid off
+0.423,9.82,default
+0.541,8.3,paid off
+0.661,8.4,paid off
+0.527,1.7,paid off
+0.316,6.73,default
+0.599,2.05,paid off
+0.645,9.63,default
+0.507,11.62,default
+0.497,12.57,default
+0.405,13.32,default
+0.275,11.65,default
+0.415,4.1,paid off
+0.719,5.25,paid off
+0.656,1.95,paid off
+0.438,19.28,default
+0.255,8.8,default
+0.297,13.5,default
+0.274,12.62,default
+0.611,5.48,paid off
+0.562,11.16,paid off
+0.369,6.28,default
+0.601,6.95,paid off
+0.433,9.39,default
+0.324,8.61,default
+0.389,4.35,default
+0.452,6.0,paid off
+0.678,7.12,paid off
+0.772,1.94,paid off
+0.639,2.98,paid off
+0.396,19.47,default
+0.378,14.87,default
+0.678,7.12,paid off
+0.291,8.87,default
+0.506,10.53,paid off
+0.664,2.59,paid off
+0.771,4.33,paid off
+0.555,3.03,paid off
+0.403,9.23,default
+0.384,9.31,default
+0.406,3.8,paid off
+0.656,9.82,paid off
+0.347,11.16,default
+0.699,4.96,paid off
+0.508,15.17,default
+0.35,5.96,default
+0.277,5.36,default
+0.334,17.68,default
+0.318,9.91,default
+0.499,6.01,paid off
+0.387,13.39,default
+0.568,6.36,default
+0.595,3.62,paid off
+0.686,5.88,paid off
+0.557,2.33,paid off
+0.511,4.2,paid off
+0.554,7.87,paid off
+0.726,5.75,paid off
+0.616,14.64,default
+0.381,9.96,default
+0.631,3.65,paid off
+0.48,12.46,default
+0.732,7.57,paid off
+0.387,3.28,paid off
+0.413,3.88,paid off
+0.698,1.93,paid off
+0.602,7.83,default
+0.731,3.76,paid off
+0.723,2.75,paid off
+0.674,3.61,paid off
+0.627,5.45,paid off
+0.658,1.45,paid off
+0.49,5.11,paid off
+0.499,4.33,paid off
+0.586,2.52,paid off
+0.751,3.73,paid off
+0.383,2.7,paid off
+0.668,9.02,paid off
+0.235,10.1,default
+0.46,17.13,paid off
+0.758,4.35,paid off
+0.615,15.1,default
+0.517,2.11,paid off
+0.527,7.57,default
+0.77,7.37,paid off
+0.55,7.43,default
+0.729,3.75,paid off
+0.228,10.15,default
+0.553,7.7,paid off
+0.567,4.62,paid off
+0.72,6.35,paid off
+0.378,7.47,default
+0.348,13.13,default
+0.421,7.24,default
+0.341,6.24,default
+0.586,9.43,paid off
+0.546,9.79,paid off
+0.637,7.9,paid off
+0.676,10.88,paid off
+0.603,2.65,paid off
+0.652,4.18,paid off
+0.368,9.65,paid off
+0.535,4.95,paid off
+0.52,6.32,default
+0.375,7.43,default
+0.41,19.98,default
+0.337,16.1,default
+0.551,4.63,paid off
+0.765,4.31,paid off
+0.557,6.21,paid off
+0.595,12.89,default
+0.215,10.85,default
+0.362,9.92,default
+0.547,8.9,default
+0.285,12.65,default
+0.694,7.16,paid off
+0.7,6.92,paid off
+0.503,3.07,paid off
+0.273,10.59,default
+0.688,5.87,paid off
+0.647,3.35,paid off
+0.418,16.85,default
+0.646,6.24,paid off
+0.33,9.18,default
+0.271,8.38,default
+0.637,3.35,paid off
+0.567,3.89,paid off
+0.648,3.48,paid off
+0.714,8.52,paid off
+0.472,9.95,default
+0.44,6.52,paid off
+0.387,5.14,default
+0.35,11.55,default
+0.672,5.37,paid off
+0.696,5.59,paid off
+0.564,13.24,default
+0.515,18.3,default
+0.43,15.2,default
+0.562,1.57,paid off
+0.604,8.67,paid off
+0.534,2.3,paid off
+0.428,10.05,default
+0.318,13.36,default
+0.256,9.68,default
+0.486,11.62,paid off
+0.708,8.87,paid off
+0.597,2.6,paid off
+0.763,5.5,paid off
+0.607,3.31,paid off
+0.587,2.48,paid off
+0.469,16.5,default
+0.714,4.83,paid off
+0.388,8.14,default
+0.559,9.17,default
+0.67,3.02,paid off
+0.709,2.47,paid off
+0.402,7.68,default
+0.651,7.33,paid off
+0.705,6.55,paid off
+0.622,5.01,paid off
+0.322,13.34,default
+0.572,4.92,paid off
+0.548,3.01,paid off
+0.361,8.78,default
+0.7,16.25,paid off
+0.747,3.35,paid off
+0.43,6.74,default
+0.68,4.89,paid off
+0.581,3.73,paid off
+0.654,6.88,paid off
+0.31,7.6,default
+0.28,5.37,default
+0.372,16.58,default
+0.725,4.08,paid off
+0.554,5.1,paid off
+0.521,7.95,default
+0.316,6.02,default
+0.406,6.29,paid off
+0.598,12.48,default
+0.738,4.32,paid off
+0.447,10.22,default
+0.654,6.29,paid off
+0.615,6.87,default
+0.457,7.28,default
+0.506,2.11,paid off
+0.627,3.72,paid off
+0.379,12.07,default
+0.385,9.32,default
+0.493,15.54,default
+0.774,4.87,paid off
+0.601,5.13,paid off
+0.647,6.45,paid off
+0.466,7.6,default
+0.271,12.67,default
+0.693,2.22,paid off
+0.588,5.33,paid off
+0.631,6.01,paid off
+0.595,6.86,paid off
+0.663,1.77,paid off
+0.651,7.65,paid off
+0.563,7.5,paid off
+0.688,3.94,paid off
+0.611,3.16,paid off
+0.761,4.12,paid off
+0.52,6.98,default
+0.634,6.96,paid off
+0.604,13.66,default
+0.676,3.03,paid off
+0.535,6.53,paid off
+0.555,3.68,paid off
+0.416,14.5,default
+0.485,3.78,paid off
+0.369,5.02,paid off
+0.736,7.51,paid off
+0.77,6.88,paid off
+0.381,10.65,default
+0.614,6.72,default
+0.693,6.35,default
+0.414,4.49,paid off
+0.352,7.45,default
+0.312,15.55,default
+0.517,9.03,default
+0.446,8.46,paid off
+0.244,14.16,default
+0.737,3.87,paid off
+0.673,4.19,paid off
+0.42,14.04,default
+0.39,12.47,default
+0.489,4.33,paid off
+0.491,2.36,paid off
+0.69,4.54,paid off
+0.622,3.79,paid off
+0.339,18.02,default
+0.404,12.34,default
+0.526,9.38,default
+0.521,7.56,default
+0.46,13.87,default
+0.671,4.0,paid off
+0.516,11.46,default
+0.633,4.32,paid off
+0.777,4.96,paid off
+0.538,8.85,paid off
+0.486,12.11,default
+0.369,6.19,default
+0.359,6.45,default
+0.462,14.33,default
+0.562,8.53,paid off
+0.399,11.56,default
+0.647,4.72,paid off
+0.301,6.85,default
+0.304,20.0,default
+0.716,6.99,paid off
+0.672,3.52,paid off
+0.349,6.4,default
+0.67,2.71,paid off
+0.332,7.23,default
+0.727,7.16,paid off
+0.419,18.58,default
+0.431,3.06,paid off
+0.575,4.09,paid off
+0.517,5.55,paid off
+0.764,5.02,paid off
+0.716,4.97,paid off
+0.696,10.31,paid off
+0.475,3.36,paid off
+0.428,6.24,paid off
+0.676,4.39,paid off
+0.668,2.58,paid off
+0.718,1.54,paid off
+0.313,18.01,default
+0.411,4.49,default
+0.573,5.06,paid off
+0.316,7.41,default
+0.768,3.87,paid off
+0.492,15.14,default
+0.652,6.88,paid off
+0.637,6.52,paid off
+0.465,11.31,default
+0.264,7.25,default
+0.725,7.83,paid off
+0.273,6.95,default
+0.534,4.61,paid off
+0.653,5.92,paid off
+0.695,2.48,paid off
+0.521,11.15,default
+0.355,10.49,default
+0.43,12.25,default
+0.7,7.97,paid off
+0.393,5.36,paid off
+0.681,4.67,paid off
+0.631,3.48,paid off
+0.65,9.33,paid off
+0.644,4.45,paid off
+0.61,7.71,paid off
+0.57,1.45,paid off
+0.742,6.12,paid off
+0.682,1.87,paid off
+0.613,1.45,paid off
+0.471,8.62,default
+0.446,9.79,default
+0.66,7.83,paid off
+0.52,3.11,paid off
+0.719,5.91,paid off
+0.431,8.11,default
+0.426,7.25,default
+0.47,11.41,default
+0.393,9.92,default
+0.624,4.94,paid off
+0.364,5.43,paid off
+0.634,2.74,paid off
+0.738,7.01,paid off
+0.378,16.11,default
+0.464,6.68,default
+0.623,2.75,paid off
+0.571,4.2,paid off
+0.594,2.3,paid off
+0.344,20.0,default
+0.502,16.31,default
+0.524,7.73,paid off
+0.628,6.24,paid off
+0.382,18.58,default
+0.288,12.4,default
+0.539,1.47,paid off
+0.644,5.51,paid off
+0.787,3.77,paid off
+0.475,9.59,default
+0.648,9.39,paid off
+0.408,9.59,default
+0.672,3.39,paid off
+0.257,10.54,default
+0.362,5.65,default
+0.69,8.82,paid off
+0.42,4.83,default
+0.459,8.02,default
+0.714,5.07,paid off
+0.512,7.91,paid off
+0.507,5.33,paid off
+0.291,16.38,default
+0.772,3.92,paid off
+0.364,8.99,default
+0.571,4.98,paid off
+0.435,11.69,default
+0.439,4.86,paid off
+0.644,3.17,paid off
+0.348,13.93,default
+0.448,12.14,default
+0.417,13.67,default
+0.384,5.36,default
+0.36,1.85,paid off
+0.393,7.03,default
+0.333,12.93,default
+0.543,5.75,paid off
+0.348,5.08,default
+0.598,9.43,paid off
+0.649,1.51,paid off
+0.694,4.2,paid off
+0.493,6.84,paid off
+0.619,12.92,paid off
+0.61,3.42,paid off
+0.664,4.81,paid off
+0.265,9.76,default
+0.281,8.03,default
+0.669,3.1,paid off
+0.375,11.78,default
+0.231,8.16,default
+0.255,8.82,default
+0.759,3.94,paid off
+0.23,14.63,default
+0.419,11.71,default
+0.522,12.1,paid off
+0.686,7.03,paid off
+0.583,11.15,default
+0.732,3.23,paid off
+0.697,3.94,paid off
+0.554,17.26,default
+0.493,12.14,default
+0.535,4.86,paid off
+0.574,5.71,paid off
+0.394,11.7,default
+0.681,2.51,paid off
+0.625,5.31,paid off
+0.392,16.85,default
+0.523,7.36,default
+0.273,5.89,default
+0.41,5.34,default
+0.528,17.16,default
+0.436,5.84,default
+0.323,20.0,default
+0.558,5.48,paid off
+0.345,3.39,paid off
+0.625,4.47,paid off
+0.509,13.16,default
+0.69,2.12,paid off
+0.24,9.08,default
+0.726,6.31,paid off
+0.757,11.2,paid off
+0.617,2.26,paid off
+0.405,4.96,default
+0.476,5.01,paid off
+0.331,4.84,default
+0.584,4.67,paid off
+0.235,7.76,default
+0.786,3.61,paid off
+0.723,7.96,paid off
+0.411,18.82,default
+0.63,5.21,paid off
+0.307,5.47,default
+0.563,5.61,paid off
+0.376,7.08,default
+0.343,10.53,default
+0.452,11.37,default
+0.52,11.08,paid off
+0.235,10.31,default
+0.336,4.03,default
+0.565,1.61,paid off
+0.753,2.67,paid off
+0.535,11.4,paid off
+0.537,5.68,paid off
+0.6,2.02,paid off
+0.66,4.47,paid off
+0.624,4.03,paid off
+0.612,20.0,default
+0.584,6.99,default
+0.405,6.2,default
+0.599,3.47,paid off
+0.705,2.52,paid off
+0.316,10.86,default
+0.365,7.92,default
+0.246,7.93,default
+0.231,11.07,default
+0.757,8.81,paid off
+0.598,11.82,default
+0.474,3.39,paid off
+0.276,8.47,default
+0.684,10.48,paid off
+0.503,8.08,default
+0.662,7.97,paid off
+0.664,7.32,default
+0.318,13.25,default
+0.356,10.37,default
+0.493,3.8,paid off
+0.642,4.56,paid off
+0.797,4.34,paid off
+0.505,7.92,default
+0.431,10.32,default
+0.351,7.72,default
+0.316,10.23,default
+0.754,3.44,paid off
+0.473,5.6,default
+0.365,11.01,default
+0.455,7.78,default
+0.304,11.46,default
+0.676,4.47,paid off
+0.39,6.65,default
+0.232,12.6,default
+0.523,10.11,paid off
+0.593,2.82,paid off
+0.635,9.89,default
+0.745,4.44,paid off
+0.319,14.27,default
+0.426,8.44,default
+0.592,3.71,paid off
+0.429,11.71,default
+0.263,11.65,default
+0.63,3.29,paid off
+0.735,2.8,paid off
+0.668,4.19,paid off
+0.305,18.62,default
+0.5,10.11,default
+0.54,4.48,paid off
+0.354,6.79,default
+0.415,7.47,paid off
+0.711,8.08,paid off
+0.448,6.81,paid off
+0.627,3.82,paid off
+0.596,2.77,paid off
+0.602,5.39,paid off
+0.361,6.41,default
+0.711,8.91,paid off
+0.537,7.15,default
+0.363,4.39,default
+0.446,8.06,default
+0.35,9.83,default
+0.254,11.3,default
+0.642,2.97,paid off
+0.261,6.7,default
+0.418,9.1,default
+0.39,6.61,default
+0.719,6.07,paid off
+0.566,10.77,paid off
+0.444,11.03,default
+0.608,5.03,paid off
+0.631,3.98,paid off
+0.577,20.0,default
+0.678,6.24,paid off
+0.503,4.28,paid off
+0.369,4.57,paid off
+0.236,10.32,default
+0.624,10.34,default
+0.654,5.8,paid off
+0.427,14.4,default
+0.478,2.96,paid off
+0.302,7.6,default
+0.58,4.41,paid off
+0.473,15.93,default
+0.673,7.45,paid off
+0.618,6.44,paid off
+0.496,4.11,paid off
+0.665,5.18,paid off
+0.54,4.54,paid off
+0.754,2.61,paid off
+0.664,6.79,paid off
+0.534,5.83,paid off
+0.623,6.77,paid off
+0.231,13.7,default
+0.679,1.84,paid off
+0.6,7.55,default
+0.55,6.26,default
+0.562,10.21,paid off
+0.71,4.59,paid off
+0.558,7.84,paid off
+0.34,7.62,default
+0.565,1.86,paid off
+0.218,15.43,default
+0.559,3.87,paid off
+0.262,13.12,default
+0.602,2.03,paid off
+0.345,19.36,default
+0.371,11.15,default
+0.597,5.29,paid off
+0.778,8.44,paid off
+0.75,13.1,paid off
+0.429,12.3,default
+0.639,8.65,paid off
+0.581,15.76,default
+0.435,16.87,default
+0.452,15.42,default
+0.256,8.36,default
+0.279,14.97,default
+0.506,9.31,paid off
+0.539,7.78,default
+0.743,4.15,paid off
+0.643,2.3,paid off
+0.466,10.3,default
+0.211,10.26,default
+0.274,8.86,default
+0.51,9.28,default
+0.283,17.29,default
+0.464,8.06,default
+0.492,4.31,paid off
+0.447,3.89,paid off
+0.8,8.64,paid off
+0.53,12.21,default
+0.355,3.87,paid off
+0.611,2.17,paid off
+0.329,15.92,default
+0.793,3.98,paid off
+0.687,4.0,paid off
+0.752,5.14,paid off
+0.317,15.37,default
+0.713,7.73,paid off
+0.703,8.85,paid off
+0.356,16.57,default
+0.416,7.09,default
+0.654,4.56,paid off
+0.365,9.78,default
+0.587,3.97,paid off
+0.501,11.85,default
+0.651,6.23,paid off
+0.726,4.78,paid off
+0.493,12.59,default
+0.486,8.79,default
+0.399,9.05,default
+0.56,11.16,default
+0.667,6.11,paid off
+0.388,6.43,default
+0.385,12.16,default
+0.518,4.55,paid off
+0.516,3.08,paid off
+0.489,6.61,default
+0.622,14.21,paid off
+0.325,7.0,default
+0.292,14.25,default
+0.282,9.86,default
+0.36,13.88,default
+0.653,9.45,paid off
+0.691,9.84,default
+0.605,4.37,paid off
+0.217,7.4,default
+0.606,4.75,paid off
+0.575,5.05,default
+0.656,6.27,paid off
+0.634,7.01,paid off
+0.559,4.42,paid off
+0.433,8.2,default
+0.659,9.08,default
+0.571,6.5,paid off
+0.776,2.58,paid off
+0.345,15.39,default
+0.717,3.37,paid off
+0.455,15.64,default
+0.42,2.43,paid off
+0.687,5.41,paid off
+0.583,3.99,paid off
+0.545,9.27,default
+0.59,4.62,paid off
+0.302,19.31,default
+0.692,2.07,paid off
+0.466,6.03,paid off
+0.698,7.51,paid off
+0.687,1.57,paid off
+0.294,11.94,default
+0.558,5.06,default
+0.689,8.57,paid off
+0.545,3.31,paid off
+0.689,7.85,paid off
+0.411,9.02,paid off
+0.322,13.07,default
+0.578,4.0,paid off
+0.349,9.88,default
+0.772,5.53,paid off
+0.62,4.15,paid off
+0.577,2.35,paid off
+0.356,7.03,default
+0.295,16.74,default
+0.648,6.32,paid off
+0.657,9.24,paid off
+0.496,6.97,paid off
+0.268,9.34,default
+0.672,5.24,paid off
+0.483,3.34,paid off
+0.481,13.18,default
+0.481,9.54,default
+0.482,6.51,paid off
+0.672,2.31,paid off
+0.322,11.81,default
+0.569,10.38,paid off
+0.509,2.66,paid off
+0.485,10.59,default
+0.768,3.11,paid off
+0.539,12.84,default
+0.345,12.74,default
+0.493,8.46,default
+0.591,11.05,paid off
+0.582,7.69,default
+0.231,9.04,default
+0.795,8.19,paid off
+0.343,13.55,default
+0.62,6.26,paid off
+0.337,9.07,default
+0.389,13.84,default
+0.3,8.01,default
+0.647,3.37,paid off
+0.691,4.99,paid off
+0.34,6.45,default
+0.586,3.3,paid off
+0.215,17.99,default
+0.65,7.8,paid off
+0.343,15.37,default
+0.482,11.96,paid off
+0.292,6.41,default
+0.684,4.98,paid off
+0.544,8.11,default
+0.259,12.64,default
+0.287,20.0,default
+0.714,4.65,paid off
+0.543,2.33,paid off
+0.431,20.0,default
+0.573,2.89,paid off
+0.355,7.43,default
+0.586,10.7,paid off
+0.649,4.51,paid off
+0.8,2.76,paid off
+0.475,10.24,default
+0.601,5.49,paid off
+0.75,5.26,paid off
+0.332,9.64,default
+0.297,6.08,default
+0.781,4.6,paid off
+0.223,7.35,default
+0.748,3.29,paid off
+0.499,6.19,default
+0.561,7.7,paid off
+0.511,11.31,default
+0.304,10.06,default
+0.698,3.64,paid off
+0.499,7.7,paid off
+0.725,7.48,paid off
+0.663,3.68,paid off
+0.356,14.14,default
+0.557,4.21,paid off
+0.463,3.54,paid off
+0.677,6.92,paid off
+0.639,10.68,paid off
+0.443,4.06,paid off
